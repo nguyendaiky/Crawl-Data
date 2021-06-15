@@ -1,0 +1,560 @@
+{"Ngay": "11/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "V\u00e2n Canh", "Xa": "Canh Vinh", "Kinh Do": "109.08432", "Vi Do": "13.68228"}
+{"Ngay": "11/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "V\u00e2n Canh", "Xa": "Canh Vinh", "Kinh Do": "109.08797", "Vi Do": "13.68168"}
+{"Ngay": "11/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "V\u00e2n Canh", "Xa": "Canh Vinh", "Kinh Do": "109.08377", "Vi Do": "13.67889"}
+{"Ngay": "11/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "V\u00e2n Canh", "Xa": "Canh Vinh", "Kinh Do": "109.08745", "Vi Do": "13.67828"}
+{"Ngay": "11/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "TX. K\u1ef3 Anh", "Xa": "P. K\u1ef3 Ph\u01b0\u01a1ng", "Kinh Do": "106.43526", "Vi Do": "18.02655"}
+{"Ngay": "11/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "TX. K\u1ef3 Anh", "Xa": "P. K\u1ef3 Ph\u01b0\u01a1ng", "Kinh Do": "106.42414", "Vi Do": "18.03169"}
+{"Ngay": "11/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "TX. K\u1ef3 Anh", "Xa": "P. K\u1ef3 Ph\u01b0\u01a1ng", "Kinh Do": "106.43471", "Vi Do": "18.02313"}
+{"Ngay": "11/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "Tuy\u00ean Ho\u00e1", "Xa": "V\u0103nH\u00f3a", "Kinh Do": "106.27922", "Vi Do": "17.76016"}
+{"Ngay": "11/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "Qu\u1ea3ng Tr\u1ea1ch", "Xa": "C\u1ea3nh H\u00f3a", "Kinh Do": "106.29139", "Vi Do": "17.7929"}
+{"Ngay": "11/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "B\u00ecnh S\u01a1n", "Xa": "B\u00ecnh \u0110\u00f4ng", "Kinh Do": "108.79013", "Vi Do": "15.38449"}
+{"Ngay": "11/08/2020", "Tinh": "Ngh\u1ec7 An", "Huyen": "\u0110\u00f4 L\u01b0\u01a1ng", "Xa": "B\u00e0i S\u01a1n", "Kinh Do": "105.35406", "Vi Do": "18.93696"}
+{"Ngay": "11/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "\u0110\u1ed3ng Xu\u00e2n", "Xa": "\u0110a L\u1ed9c", "Kinh Do": "109.11066", "Vi Do": "13.52041"}
+{"Ngay": "11/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Gio Linh", "Xa": "Linh Th\u01b0\u1ee3ng", "Kinh Do": "106.81449", "Vi Do": "16.82669"}
+{"Ngay": "11/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "Phong \u0110i\u1ec1n", "Xa": "Phong An", "Kinh Do": "107.36882", "Vi Do": "16.54006"}
+{"Ngay": "10/08/2020", "Tinh": "Thanh Ho\u00e1", "Huyen": "Thanh H\u00f3a", "Xa": "\u0110\u00f4ng C\u01b0\u01a1ng", "Kinh Do": "105.76237", "Vi Do": "19.83265"}
+{"Ngay": "10/08/2020", "Tinh": "Thanh Ho\u00e1", "Huyen": "Thanh H\u00f3a", "Xa": "P. \u0110\u00f4ng Th\u1ecd", "Kinh Do": "105.7646", "Vi Do": "19.82135"}
+{"Ngay": "10/08/2020", "Tinh": "Thanh Ho\u00e1", "Huyen": "Thanh H\u00f3a", "Xa": "P. \u0110\u00f4ng Th\u1ecd", "Kinh Do": "105.76385", "Vi Do": "19.82512"}
+{"Ngay": "10/08/2020", "Tinh": "Thanh Ho\u00e1", "Huyen": "T\u0129nh Gia", "Xa": "H\u1ea3i Th\u01b0\u1ee3ng", "Kinh Do": "105.78979", "Vi Do": "19.33459"}
+{"Ngay": "10/08/2020", "Tinh": "Thanh Ho\u00e1", "Huyen": "T\u0129nh Gia", "Xa": "T\u00e2n Tr\u01b0\u1eddng", "Kinh Do": "105.65558", "Vi Do": "19.37789"}
+{"Ngay": "10/08/2020", "Tinh": "Thanh Ho\u00e1", "Huyen": "T\u0129nh Gia", "Xa": "T\u00e2n Tr\u01b0\u1eddng", "Kinh Do": "105.65857", "Vi Do": "19.37949"}
+{"Ngay": "10/08/2020", "Tinh": "Thanh Ho\u00e1", "Huyen": "Nh\u01b0 Thanh", "Xa": "H\u1ea3i Long", "Kinh Do": "105.5623", "Vi Do": "19.64516"}
+{"Ngay": "10/08/2020", "Tinh": "Thanh Ho\u00e1", "Huyen": "Nh\u01b0 Thanh", "Xa": "H\u1ea3i Long", "Kinh Do": "105.56158", "Vi Do": "19.64898"}
+{"Ngay": "10/08/2020", "Tinh": "Thanh Ho\u00e1", "Huyen": "TX. B\u1ec9m S\u01a1n", "Xa": "P. \u0110\u00f4ng S\u01a1n", "Kinh Do": "105.91068", "Vi Do": "20.07432"}
+{"Ngay": "10/08/2020", "Tinh": "Thanh Ho\u00e1", "Huyen": "Nh\u01b0 Xu\u00e2n", "Xa": "B\u00ecnh L\u01b0\u01a1ng", "Kinh Do": "105.46083", "Vi Do": "19.6347"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Hi\u1ec7p \u0110\u1ee9c", "Xa": "Hi\u1ec7p H\u00f2a", "Kinh Do": "108.053", "Vi Do": "15.59"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Hi\u1ec7p \u0110\u1ee9c", "Xa": "Hi\u1ec7p Thu\u1eadn", "Kinh Do": "108.0797", "Vi Do": "15.60277"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Hi\u1ec7p \u0110\u1ee9c", "Xa": "Hi\u1ec7p Thu\u1eadn", "Kinh Do": "108.08385", "Vi Do": "15.60345"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Hi\u1ec7p \u0110\u1ee9c", "Xa": "Hi\u1ec7p Thu\u1eadn", "Kinh Do": "108.075", "Vi Do": "15.594"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Hi\u1ec7p \u0110\u1ee9c", "Xa": "Hi\u1ec7p Thu\u1eadn", "Kinh Do": "108.082", "Vi Do": "15.596"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "N\u00f4ng S\u01a1n", "Xa": "Qu\u1ebf Ninh", "Kinh Do": "108.031", "Vi Do": "15.663"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "N\u00f4ng S\u01a1n", "Xa": "Qu\u1ebf Ninh", "Kinh Do": "108.027", "Vi Do": "15.661"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Nam Giang", "Xa": "TT. Th\u1ea1nh M\u1ef9", "Kinh Do": "107.78165", "Vi Do": "15.78609"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Gio Linh", "Xa": "Linh Th\u01b0\u1ee3ng", "Kinh Do": "106.81773", "Vi Do": "16.82945"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Gio Linh", "Xa": "Linh Th\u01b0\u1ee3ng", "Kinh Do": "106.81827", "Vi Do": "16.8257"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Cam L\u1ed9", "Xa": "Cam Tuy\u1ec1n", "Kinh Do": "106.88467", "Vi Do": "16.80937"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Cam L\u1ed9", "Xa": "Cam Tuy\u1ec1n", "Kinh Do": "106.88524", "Vi Do": "16.81302"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Tri\u1ec7u Phong", "Xa": "Tri\u1ec7u \u00e1i", "Kinh Do": "107.05574", "Vi Do": "16.6992"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Tri\u1ec7u Phong", "Xa": "Tri\u1ec7u \u00e1i", "Kinh Do": "107.04988", "Vi Do": "16.70579"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "V\u0129nh Linh", "Xa": "V\u0129nh S\u01a1n", "Kinh Do": "106.987", "Vi Do": "16.984"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "H\u01b0\u1edbng H\u00f3a", "Xa": "H\u01b0\u1edbng S\u01a1n", "Kinh Do": "106.7375", "Vi Do": "16.85013"}
+{"Ngay": "10/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "K\u1ef3 Anh", "Xa": "K\u1ef3 L\u1ea1c", "Kinh Do": "106.26736", "Vi Do": "17.92719"}
+{"Ngay": "10/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "K\u1ef3 Anh", "Xa": "K\u1ef3 Th\u1ecd", "Kinh Do": "106.25124", "Vi Do": "18.12667"}
+{"Ngay": "10/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "K\u1ef3 Anh", "Xa": "K\u1ef3 Th\u1ecd", "Kinh Do": "106.24825", "Vi Do": "18.12564"}
+{"Ngay": "10/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "K\u1ef3 Anh", "Xa": "K\u1ef3 Trung", "Kinh Do": "106.21433", "Vi Do": "18.14687"}
+{"Ngay": "10/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "H\u01b0\u01a1ng Kh\u00ea", "Xa": "H\u01b0\u01a1ng Tr\u1ea1ch", "Kinh Do": "105.80655", "Vi Do": "18.1017"}
+{"Ngay": "10/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "H\u01b0\u01a1ng Kh\u00ea", "Xa": "L\u1ed9c Y\u00ean", "Kinh Do": "105.84303", "Vi Do": "18.2096"}
+{"Ngay": "10/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "H\u01b0\u01a1ng Kh\u00ea", "Xa": "L\u1ed9c Y\u00ean", "Kinh Do": "105.78676", "Vi Do": "18.17562"}
+{"Ngay": "10/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "TX. K\u1ef3 Anh", "Xa": "P. K\u1ef3 Ph\u01b0\u01a1ng", "Kinh Do": "106.43754", "Vi Do": "18.02586"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "B\u00ecnh S\u01a1n", "Xa": "B\u00ecnh \u0110\u00f4ng", "Kinh Do": "108.78738", "Vi Do": "15.38435"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "B\u00ecnh S\u01a1n", "Xa": "B\u00ecnh \u0110\u00f4ng", "Kinh Do": "108.79658", "Vi Do": "15.36979"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "Minh Long", "Xa": "Long M\u00f4n", "Kinh Do": "108.579", "Vi Do": "14.921"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "Minh Long", "Xa": "Long M\u00f4n", "Kinh Do": "108.586", "Vi Do": "14.92"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "Ba T\u01a1", "Xa": "Ba L\u1ebf", "Kinh Do": "108.73555", "Vi Do": "14.66927"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "Ba T\u01a1", "Xa": "Ba L\u1ebf", "Kinh Do": "108.73164", "Vi Do": "14.66862"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "Tr\u00e0 B\u1ed3ng", "Xa": "Tr\u00e0 S\u01a1n", "Kinh Do": "108.49129", "Vi Do": "15.22194"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "L\u1ec7 Thu\u1ef7", "Xa": "KimTh\u1ee7y", "Kinh Do": "106.67841", "Vi Do": "17.14205"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "L\u1ec7 Thu\u1ef7", "Xa": "Ng\u00e2n Th\u1ee7y", "Kinh Do": "106.67377", "Vi Do": "17.14124"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "L\u1ec7 Thu\u1ef7", "Xa": "Ng\u00e2n Th\u1ee7y", "Kinh Do": "106.666", "Vi Do": "17.139"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "L\u1ec7 Thu\u1ef7", "Xa": "Ng\u00e2n Th\u1ee7y", "Kinh Do": "106.661", "Vi Do": "17.131"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "Tuy\u00ean Ho\u00e1", "Xa": "L\u00e2m H\u00f3a", "Kinh Do": "105.81194", "Vi Do": "17.92587"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "Tuy\u00ean Ho\u00e1", "Xa": "Thanh H\u00f3a", "Kinh Do": "105.80737", "Vi Do": "18.01791"}
+{"Ngay": "10/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "Qu\u1ea3ng Tr\u1ea1ch", "Xa": "Qu\u1ea3ng Ti\u1ebfn", "Kinh Do": "106.384", "Vi Do": "17.843"}
+{"Ngay": "10/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "V\u00e2n Canh", "Xa": "Canh H\u00f2a", "Kinh Do": "108.997", "Vi Do": "13.525"}
+{"Ngay": "10/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "V\u00e2n Canh", "Xa": "Canh H\u00f2a", "Kinh Do": "109.001", "Vi Do": "13.538"}
+{"Ngay": "10/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "V\u00e2n Canh", "Xa": "Canh Vinh", "Kinh Do": "109.083", "Vi Do": "13.674"}
+{"Ngay": "10/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "V\u00e2n Canh", "Xa": "Canh Vinh", "Kinh Do": "109.081", "Vi Do": "13.683"}
+{"Ngay": "10/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "V\u00e2n Canh", "Xa": "Canh Vinh", "Kinh Do": "109.092", "Vi Do": "13.675"}
+{"Ngay": "10/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "V\u00e2n Canh", "Xa": "Canh Vinh", "Kinh Do": "109.09", "Vi Do": "13.684"}
+{"Ngay": "10/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "V\u0129nh Th\u1ea1nh", "Xa": "V\u0129nh H\u1ea3o", "Kinh Do": "108.70284", "Vi Do": "14.23736"}
+{"Ngay": "10/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "A L\u01b0\u1edbi", "Xa": "H\u1ed3ng H\u1ea1", "Kinh Do": "107.363", "Vi Do": "16.26"}
+{"Ngay": "10/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "A L\u01b0\u1edbi", "Xa": "H\u01b0\u01a1ng L\u00e2m", "Kinh Do": "107.34545", "Vi Do": "16.13933"}
+{"Ngay": "10/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "A L\u01b0\u1edbi", "Xa": "H\u01b0\u01a1ng L\u00e2m", "Kinh Do": "107.34226", "Vi Do": "16.14164"}
+{"Ngay": "10/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "A L\u01b0\u1edbi", "Xa": "H\u01b0\u01a1ng L\u00e2m", "Kinh Do": "107.336", "Vi Do": "16.13"}
+{"Ngay": "10/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "A L\u01b0\u1edbi", "Xa": "H\u01b0\u01a1ng Nguy\u00ean", "Kinh Do": "107.37918", "Vi Do": "16.26048"}
+{"Ngay": "10/08/2020", "Tinh": "Ngh\u1ec7 An", "Huyen": "\u0110\u00f4 L\u01b0\u01a1ng", "Xa": "B\u00e0i S\u01a1n", "Kinh Do": "105.35284", "Vi Do": "18.93914"}
+{"Ngay": "10/08/2020", "Tinh": "Ngh\u1ec7 An", "Huyen": "\u0110\u00f4 L\u01b0\u01a1ng", "Xa": "B\u00e0i S\u01a1n", "Kinh Do": "105.35153", "Vi Do": "18.93866"}
+{"Ngay": "10/08/2020", "Tinh": "Ngh\u1ec7 An", "Huyen": "Ngh\u0129a \u0110\u00e0n", "Xa": "Ngh\u0129a L\u1ee3i", "Kinh Do": "105.57432", "Vi Do": "19.38827"}
+{"Ngay": "10/08/2020", "Tinh": "Ngh\u1ec7 An", "Huyen": "T\u00e2n K\u1ef3", "Xa": "Ngh\u0129a D\u0169ng", "Kinh Do": "105.35962", "Vi Do": "19.0765"}
+{"Ngay": "10/08/2020", "Tinh": "Ngh\u1ec7 An", "Huyen": "Thanh Ch\u01b0\u01a1ng", "Xa": "Thanh S\u01a1n", "Kinh Do": "105.11969", "Vi Do": "18.75659"}
+{"Ngay": "10/08/2020", "Tinh": "Ninh B\u00ecnh", "Huyen": "Ninh B\u00ecnh", "Xa": "P. Ninh Phong", "Kinh Do": "105.96564", "Vi Do": "20.21354"}
+{"Ngay": "10/08/2020", "Tinh": "Ninh B\u00ecnh", "Huyen": "Ninh B\u00ecnh", "Xa": "P. Ninh Phong", "Kinh Do": "105.97035", "Vi Do": "20.21436"}
+{"Ngay": "10/08/2020", "Tinh": "Ninh B\u00ecnh", "Huyen": "TX. Tam \u0110i\u1ec7p", "Xa": "P. Nam S\u01a1n", "Kinh Do": "105.86564", "Vi Do": "20.13058"}
+{"Ngay": "10/08/2020", "Tinh": "Ninh B\u00ecnh", "Huyen": "Y\u00ean Kh\u00e1nh", "Xa": "Kh\u00e1nh Ph\u00fa", "Kinh Do": "106.023", "Vi Do": "20.24266"}
+{"Ngay": "10/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "\u0110\u1ed3ng Xu\u00e2n", "Xa": "\u0110a L\u1ed9c", "Kinh Do": "109.103", "Vi Do": "13.52"}
+{"Ngay": "10/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "\u0110\u1ed3ng Xu\u00e2n", "Xa": "Xu\u00e2n L\u00e3nh", "Kinh Do": "109.09322", "Vi Do": "13.49874"}
+{"Ngay": "10/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "TX. S\u00f4ng C\u1ea7u", "Xa": "Xu\u00e2n L\u00e2m", "Kinh Do": "109.112", "Vi Do": "13.522"}
+{"Ngay": "10/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "S\u01a1n H\u00f2a", "Xa": "S\u01a1n H\u1ed9i", "Kinh Do": "109.00696", "Vi Do": "13.18904"}
+{"Ngay": "10/08/2020", "Tinh": "H\u00e0 Nam", "Huyen": "Ph\u1ee7 L\u00fd", "Xa": "Kim B\u00ecnh", "Kinh Do": "105.91516", "Vi Do": "20.57251"}
+{"Ngay": "10/08/2020", "Tinh": "H\u00e0 Nam", "Huyen": "Duy Ti\u00ean", "Xa": "B\u1ea1ch Th\u01b0\u1ee3ng", "Kinh Do": "105.93648", "Vi Do": "20.66989"}
+{"Ngay": "10/08/2020", "Tinh": "H\u00e0 Nam", "Huyen": "Thanh Li\u00eam", "Xa": "Thanh Ngh\u1ecb", "Kinh Do": "105.89957", "Vi Do": "20.40577"}
+{"Ngay": "10/08/2020", "Tinh": "H\u1ea3i D\u01b0\u01a1ng", "Huyen": "Kinh M\u00f4n", "Xa": "Hi\u1ec7p S\u01a1n", "Kinh Do": "106.54037", "Vi Do": "21.00974"}
+{"Ngay": "10/08/2020", "Tinh": "H\u1ea3i D\u01b0\u01a1ng", "Huyen": "Kinh M\u00f4n", "Xa": "Hi\u1ec7p S\u01a1n", "Kinh Do": "106.53888", "Vi Do": "21.00899"}
+{"Ngay": "10/08/2020", "Tinh": "H\u1ea3i D\u01b0\u01a1ng", "Huyen": "Kinh M\u00f4n", "Xa": "TT. Minh T\u00e2n", "Kinh Do": "106.58987", "Vi Do": "21.03912"}
+{"Ngay": "10/08/2020", "Tinh": "H\u00e0 N\u1ed9i", "Huyen": "Th\u1ea1ch Th\u1ea5t", "Xa": "H\u1eefu B\u1eb1ng", "Kinh Do": "105.61472", "Vi Do": "21.02153"}
+{"Ngay": "10/08/2020", "Tinh": "H\u00e0 N\u1ed9i", "Huyen": "Thanh Oai", "Xa": "B\u00edch H\u00f2a", "Kinh Do": "105.75456", "Vi Do": "20.9295"}
+{"Ngay": "10/08/2020", "Tinh": "H\u01b0ng Y\u00ean", "Huyen": "V\u0103n Giang", "Xa": "Long H\u01b0ng", "Kinh Do": "105.96926", "Vi Do": "20.94407"}
+{"Ngay": "10/08/2020", "Tinh": "B\u1eafc Ninh", "Huyen": "B\u1eafc Ninh", "Xa": "Nam S\u01a1n", "Kinh Do": "106.116", "Vi Do": "21.156"}
+{"Ngay": "10/08/2020", "Tinh": "V\u0129nh Ph\u00fac", "Huyen": "B\u00ecnh Xuy\u00ean", "Xa": "\u0110\u1ea1o \u0110\u1ee9c", "Kinh Do": "105.67155", "Vi Do": "21.25281"}
+{"Ngay": "10/08/2020", "Tinh": "\u0110\u1eafk N\u00f4ng", "Huyen": "C\u01b0 J\u00fat", "Xa": "T\u00e2m Th\u1eafng", "Kinh Do": "107.9192", "Vi Do": "12.60837"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u1ea1i L\u1ed9c", "Xa": "\u0110\u1ea1i H\u01b0ng", "Kinh Do": "107.91142", "Vi Do": "15.88798"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u1ea1i L\u1ed9c", "Xa": "\u0110\u1ea1i H\u01b0ng", "Kinh Do": "107.912", "Vi Do": "15.887"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u1ea1i L\u1ed9c", "Xa": "\u0110\u1ea1i H\u01b0ng", "Kinh Do": "107.922", "Vi Do": "15.885"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u1ea1i L\u1ed9c", "Xa": "\u0110\u1ea1i S\u01a1n", "Kinh Do": "107.86117", "Vi Do": "15.82157"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u1ea1i L\u1ed9c", "Xa": "\u0110\u1ea1i S\u01a1n", "Kinh Do": "107.86708", "Vi Do": "15.83282"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u1ea1i L\u1ed9c", "Xa": "\u0110\u1ea1i S\u01a1n", "Kinh Do": "107.866", "Vi Do": "15.81"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u1ea1i L\u1ed9c", "Xa": "\u0110\u1ea1i S\u01a1n", "Kinh Do": "107.839", "Vi Do": "15.815"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u1ea1i L\u1ed9c", "Xa": "\u0110\u1ea1i S\u01a1n", "Kinh Do": "107.848", "Vi Do": "15.813"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u1ea1i L\u1ed9c", "Xa": "\u0110\u1ea1i S\u01a1n", "Kinh Do": "107.893", "Vi Do": "15.797"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u1ea1i L\u1ed9c", "Xa": "\u0110\u1ea1i S\u01a1n", "Kinh Do": "107.857", "Vi Do": "15.812"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Hi\u1ec7p \u0110\u1ee9c", "Xa": "Ph\u01b0\u1edbc Gia", "Kinh Do": "108.10966", "Vi Do": "15.45692"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Hi\u1ec7p \u0110\u1ee9c", "Xa": "Ph\u01b0\u1edbc Gia", "Kinh Do": "108.07571", "Vi Do": "15.50064"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Hi\u1ec7p \u0110\u1ee9c", "Xa": "Ph\u01b0\u1edbc Gia", "Kinh Do": "108.11349", "Vi Do": "15.45748"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Hi\u1ec7p \u0110\u1ee9c", "Xa": "Ph\u01b0\u1edbc Tr\u00e0", "Kinh Do": "108.019", "Vi Do": "15.52028"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Hi\u1ec7p \u0110\u1ee9c", "Xa": "Ph\u01b0\u1edbc Tr\u00e0", "Kinh Do": "108.027", "Vi Do": "15.501"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Hi\u1ec7p \u0110\u1ee9c", "Xa": "S\u00f4ng Tr\u00e0", "Kinh Do": "108.01851", "Vi Do": "15.52368"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "B\u1eafc Tr\u00e0 My", "Xa": "Tr\u00e0 \u0110\u00f4ng", "Kinh Do": "108.38045", "Vi Do": "15.39147"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "B\u1eafc Tr\u00e0 My", "Xa": "Tr\u00e0 K\u00f3t", "Kinh Do": "108.39257", "Vi Do": "15.34058"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "B\u1eafc Tr\u00e0 My", "Xa": "Tr\u00e0 K\u00f3t", "Kinh Do": "108.38564", "Vi Do": "15.38522"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "B\u1eafc Tr\u00e0 My", "Xa": "Tr\u00e0 K\u00f3t", "Kinh Do": "108.41536", "Vi Do": "15.34384"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "N\u00fai Th\u00e0nh", "Xa": "Tam S\u01a1n", "Kinh Do": "108.43661", "Vi Do": "15.41982"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "N\u00fai Th\u00e0nh", "Xa": "Tam Xu\u00e2n 2", "Kinh Do": "108.51699", "Vi Do": "15.49819"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Nam Giang", "Xa": "C\u00e0 Dy", "Kinh Do": "107.82445", "Vi Do": "15.63483"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Nam Giang", "Xa": "C\u00e0 Dy", "Kinh Do": "107.82827", "Vi Do": "15.63539"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Ti\u00ean Ph\u01b0\u1edbc", "Xa": "Ti\u00ean An", "Kinh Do": "108.31716", "Vi Do": "15.40293"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Ti\u00ean Ph\u01b0\u1edbc", "Xa": "Ti\u00ean L\u1eadp", "Kinh Do": "108.37981", "Vi Do": "15.39489"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "N\u00f4ng S\u01a1n", "Xa": "S\u01a1n Vi\u00ean", "Kinh Do": "108.11266", "Vi Do": "15.7183"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "H\u1ed9i An", "Xa": "P. Thanh H\u00e0", "Kinh Do": "108.30756", "Vi Do": "15.88929"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "S\u01a1n H\u00e0", "Xa": "S\u01a1n H\u1ea1", "Kinh Do": "108.60178", "Vi Do": "15.11212"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "S\u01a1n H\u00e0", "Xa": "S\u01a1n H\u1ea3i", "Kinh Do": "108.512", "Vi Do": "14.975"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "S\u01a1n H\u00e0", "Xa": "S\u01a1n H\u1ea3i", "Kinh Do": "108.502", "Vi Do": "14.977"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "T\u00e2y Tr\u00e0", "Xa": "Tr\u00e0 Thanh", "Kinh Do": "108.34969", "Vi Do": "15.28624"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "T\u00e2y Tr\u00e0", "Xa": "Tr\u00e0 Thanh", "Kinh Do": "108.34953", "Vi Do": "15.28539"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "B\u00ecnh S\u01a1n", "Xa": "B\u00ecnh \u0110\u00f4ng", "Kinh Do": "108.79015", "Vi Do": "15.38511"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "Tr\u00e0 B\u1ed3ng", "Xa": "Tr\u00e0 Ph\u00fa", "Kinh Do": "108.573", "Vi Do": "15.243"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "S\u01a1n T\u1ecbnh", "Xa": "T\u1ecbnh Giang", "Kinh Do": "108.59582", "Vi Do": "15.14771"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "\u0110\u1ee9c Ph\u1ed5", "Xa": "Ph\u1ed5 Kh\u00e1nh", "Kinh Do": "109.015", "Vi Do": "14.695"}
+{"Ngay": "09/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "S\u01a1n H\u00f2a", "Xa": "S\u01a1n \u0110\u1ecbnh", "Kinh Do": "109.06091", "Vi Do": "13.18371"}
+{"Ngay": "09/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "S\u01a1n H\u00f2a", "Xa": "S\u01a1n H\u1ed9i", "Kinh Do": "108.94267", "Vi Do": "13.1878"}
+{"Ngay": "09/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "S\u01a1n H\u00f2a", "Xa": "S\u01a1n Long", "Kinh Do": "109.13406", "Vi Do": "13.14817"}
+{"Ngay": "09/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "S\u01a1n H\u00f2a", "Xa": "S\u01a1n Long", "Kinh Do": "109.13464", "Vi Do": "13.14471"}
+{"Ngay": "09/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "S\u01a1n H\u00f2a", "Xa": "S\u01a1n Long", "Kinh Do": "109.08553", "Vi Do": "13.18018"}
+{"Ngay": "09/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "\u0110\u1ed3ng Xu\u00e2n", "Xa": "Ph\u00fa M\u1ee1", "Kinh Do": "108.9481", "Vi Do": "13.49123"}
+{"Ngay": "09/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "\u0110\u1ed3ng Xu\u00e2n", "Xa": "Ph\u00fa M\u1ee1", "Kinh Do": "108.9314", "Vi Do": "13.47473"}
+{"Ngay": "09/08/2020", "Tinh": "Thanh Ho\u00e1", "Huyen": "T\u0129nh Gia", "Xa": "H\u1ea3i Th\u01b0\u1ee3ng", "Kinh Do": "105.78598", "Vi Do": "19.33399"}
+{"Ngay": "09/08/2020", "Tinh": "Thanh Ho\u00e1", "Huyen": "T\u0129nh Gia", "Xa": "T\u00e2n Tr\u01b0\u1eddng", "Kinh Do": "105.65481", "Vi Do": "19.37766"}
+{"Ngay": "09/08/2020", "Tinh": "Thanh Ho\u00e1", "Huyen": "TX. B\u1ec9m S\u01a1n", "Xa": "P. \u0110\u00f4ng S\u01a1n", "Kinh Do": "105.91113", "Vi Do": "20.0754"}
+{"Ngay": "09/08/2020", "Tinh": "Thanh Ho\u00e1", "Huyen": "Nh\u01b0 Thanh", "Xa": "Xu\u00e2n Khang", "Kinh Do": "105.50595", "Vi Do": "19.70708"}
+{"Ngay": "09/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "TX. H\u01b0\u01a1ng Th\u1ee7y", "Xa": "D\u01b0\u01a1ng H\u00f2a", "Kinh Do": "107.602", "Vi Do": "16.283"}
+{"Ngay": "09/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "TX. H\u01b0\u01a1ng Th\u1ee7y", "Xa": "D\u01b0\u01a1ng H\u00f2a", "Kinh Do": "107.611", "Vi Do": "16.282"}
+{"Ngay": "09/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "Phong \u0110i\u1ec1n", "Xa": "Phong S\u01a1n", "Kinh Do": "107.385", "Vi Do": "16.426"}
+{"Ngay": "09/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "A L\u01b0\u1edbi", "Xa": "H\u1ed3ng Thu\u1ef7", "Kinh Do": "107.0843", "Vi Do": "16.37353"}
+{"Ngay": "09/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "TX. K\u1ef3 Anh", "Xa": "P. K\u1ef3 Ph\u01b0\u01a1ng", "Kinh Do": "106.43529", "Vi Do": "18.02423"}
+{"Ngay": "09/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "TX. K\u1ef3 Anh", "Xa": "P. K\u1ef3 Ph\u01b0\u01a1ng", "Kinh Do": "106.4337", "Vi Do": "18.02566"}
+{"Ngay": "09/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "H\u01b0\u01a1ng Kh\u00ea", "Xa": "L\u1ed9c Y\u00ean", "Kinh Do": "105.85971", "Vi Do": "18.19106"}
+{"Ngay": "09/08/2020", "Tinh": "H\u1ea3i D\u01b0\u01a1ng", "Huyen": "Kinh M\u00f4n", "Xa": "Hi\u1ec7p S\u01a1n", "Kinh Do": "106.54074", "Vi Do": "21.00862"}
+{"Ngay": "09/08/2020", "Tinh": "H\u1ea3i D\u01b0\u01a1ng", "Huyen": "Kinh M\u00f4n", "Xa": "Hi\u1ec7p S\u01a1n", "Kinh Do": "106.52895", "Vi Do": "21.02009"}
+{"Ngay": "09/08/2020", "Tinh": "H\u1ea3i D\u01b0\u01a1ng", "Huyen": "Kinh M\u00f4n", "Xa": "TT. Minh T\u00e2n", "Kinh Do": "106.58811", "Vi Do": "21.03906"}
+{"Ngay": "09/08/2020", "Tinh": "Ngh\u1ec7 An", "Huyen": "Thanh Ch\u01b0\u01a1ng", "Xa": "C\u00e1t V\u0103n", "Kinh Do": "105.249", "Vi Do": "18.867"}
+{"Ngay": "09/08/2020", "Tinh": "Ngh\u1ec7 An", "Huyen": "Thanh Ch\u01b0\u01a1ng", "Xa": "Phong Th\u1ecbnh", "Kinh Do": "105.261", "Vi Do": "18.868"}
+{"Ngay": "09/08/2020", "Tinh": "Ngh\u1ec7 An", "Huyen": "Qu\u1ef3 Ch\u00e2u", "Xa": "Ch\u00e2u B\u00ecnh", "Kinh Do": "105.27473", "Vi Do": "19.48259"}
+{"Ngay": "09/08/2020", "Tinh": "Gia Lai", "Huyen": "KBang", "Xa": "\u0110\u00f4ng", "Kinh Do": "108.57827", "Vi Do": "14.10327"}
+{"Ngay": "09/08/2020", "Tinh": "Gia Lai", "Huyen": "KBang", "Xa": "\u0110\u00f4ng", "Kinh Do": "108.57776", "Vi Do": "14.1067"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Gio Linh", "Xa": "Linh Th\u01b0\u1ee3ng", "Kinh Do": "106.9", "Vi Do": "16.911"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Cam L\u1ed9", "Xa": "Cam Tuy\u1ec1n", "Kinh Do": "106.93471", "Vi Do": "16.84047"}
+{"Ngay": "09/08/2020", "Tinh": "Ti\u1ec1n Giang", "Huyen": "T\u00e2n Ph\u01b0\u1edbc", "Xa": "Ph\u01b0\u1edbc L\u1eadp", "Kinh Do": "106.24", "Vi Do": "10.439"}
+{"Ngay": "09/08/2020", "Tinh": "Th\u00e1i B\u00ecnh", "Huyen": "Th\u00e1i B\u00ecnh", "Xa": "P. Tr\u1ea7n H\u01b0ng \u0110\u1ea1o", "Kinh Do": "106.327", "Vi Do": "20.44669"}
+{"Ngay": "09/08/2020", "Tinh": "Nam \u0110\u1ecbnh", "Huyen": "Nam \u0110\u1ecbnh", "Xa": "L\u1ed9c An", "Kinh Do": "106.14957", "Vi Do": "20.40377"}
+{"Ngay": "09/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "L\u1ec7 Thu\u1ef7", "Xa": "KimTh\u1ee7y", "Kinh Do": "106.77364", "Vi Do": "17.05005"}
+{"Ngay": "09/08/2020", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": "108.03647", "Vi Do": "15.96157"}
+{"Ngay": "09/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "V\u00e2n Canh", "Xa": "Canh H\u00f2a", "Kinh Do": "108.96297", "Vi Do": "13.55916"}
+{"Ngay": "09/08/2020", "Tinh": "H\u00f2a B\u00ecnh", "Huyen": "Kim B\u00f4i", "Xa": "\u0110\u00f4ng B\u1eafc", "Kinh Do": "105.47877", "Vi Do": "20.71788"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Gio Linh", "Xa": "Gio Ch\u00e2u", "Kinh Do": "107.087", "Vi Do": "16.892"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Gio Linh", "Xa": "Gio Mai", "Kinh Do": "107.111", "Vi Do": "16.894"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Gio Linh", "Xa": "Gio Quang", "Kinh Do": "107.109", "Vi Do": "16.89535"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Gio Linh", "Xa": "Gio Quang", "Kinh Do": "107.10144", "Vi Do": "16.8901"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Gio Linh", "Xa": "Gio Quang", "Kinh Do": "107.10493", "Vi Do": "16.89483"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Gio Linh", "Xa": "Gio Quang", "Kinh Do": "107.10549", "Vi Do": "16.89061"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Gio Linh", "Xa": "Gio Quang", "Kinh Do": "107.10199", "Vi Do": "16.88587"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Gio Linh", "Xa": "Gio Quang", "Kinh Do": "107.105", "Vi Do": "16.895"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Gio Linh", "Xa": "Gio Quang", "Kinh Do": "107.092", "Vi Do": "16.89"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Gio Linh", "Xa": "Linh Th\u01b0\u1ee3ng", "Kinh Do": "106.81755", "Vi Do": "16.88963"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "V\u0129nh Linh", "Xa": "V\u0129nh H\u00e0", "Kinh Do": "106.89291", "Vi Do": "16.95824"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "V\u0129nh Linh", "Xa": "V\u0129nh H\u00e0", "Kinh Do": "106.85353", "Vi Do": "16.98288"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "V\u0129nh Linh", "Xa": "V\u0129nh H\u00e0", "Kinh Do": "106.8924", "Vi Do": "16.96241"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "N\u00fai Th\u00e0nh", "Xa": "Tam M\u1ef9 \u0110\u00f4ng", "Kinh Do": "108.62135", "Vi Do": "15.36377"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "N\u00fai Th\u00e0nh", "Xa": "Tam M\u1ef9 \u0110\u00f4ng", "Kinh Do": "108.625", "Vi Do": "15.363"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "N\u00fai Th\u00e0nh", "Xa": "Tam M\u1ef9 \u0110\u00f4ng", "Kinh Do": "108.609", "Vi Do": "15.36"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "N\u00fai Th\u00e0nh", "Xa": "Tam M\u1ef9 T\u00e2y", "Kinh Do": "108.57887", "Vi Do": "15.3585"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "N\u00fai Th\u00e0nh", "Xa": "Tam M\u1ef9 T\u00e2y", "Kinh Do": "108.578", "Vi Do": "15.355"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Ti\u00ean Ph\u01b0\u1edbc", "Xa": "Ti\u00ean L\u00e3nh", "Kinh Do": "108.18393", "Vi Do": "15.41637"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Ti\u00ean Ph\u01b0\u1edbc", "Xa": "Ti\u00ean L\u00e3nh", "Kinh Do": "108.176", "Vi Do": "15.416"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "B\u1eafc Tr\u00e0 My", "Xa": "Tr\u00e0 \u0110\u1ed1c", "Kinh Do": "108.13972", "Vi Do": "15.41081"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "B\u1eafc Tr\u00e0 My", "Xa": "Tr\u00e0 \u0110\u1ed1c", "Kinh Do": "108.13509", "Vi Do": "15.41023"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u00f4ng Giang", "Xa": "Ba", "Kinh Do": "107.88943", "Vi Do": "15.98147"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Hi\u1ec7p \u0110\u1ee9c", "Xa": "Th\u0103ng Ph\u01b0\u1edbc", "Kinh Do": "108.18545", "Vi Do": "15.52341"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u1ea1i L\u1ed9c", "Xa": "\u0110\u1ea1i S\u01a1n", "Kinh Do": "107.85811", "Vi Do": "15.82118"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Nam Giang", "Xa": "TT. Th\u1ea1nh M\u1ef9", "Kinh Do": "107.86926", "Vi Do": "15.75138"}
+{"Ngay": "08/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "K\u1ef3 Anh", "Xa": "K\u1ef3 T\u00e2y", "Kinh Do": "106.18071", "Vi Do": "18.08836"}
+{"Ngay": "08/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "K\u1ef3 Anh", "Xa": "K\u1ef3 T\u00e2y", "Kinh Do": "106.18932", "Vi Do": "18.07711"}
+{"Ngay": "08/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "K\u1ef3 Anh", "Xa": "K\u1ef3 T\u00e2y", "Kinh Do": "106.18037", "Vi Do": "18.08874"}
+{"Ngay": "08/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "K\u1ef3 Anh", "Xa": "K\u1ef3 Th\u01b0\u1ee3ng", "Kinh Do": "106.102", "Vi Do": "18.085"}
+{"Ngay": "08/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "K\u1ef3 Anh", "Xa": "K\u1ef3 Trung", "Kinh Do": "106.1835", "Vi Do": "18.12206"}
+{"Ngay": "08/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "K\u1ef3 Anh", "Xa": "K\u1ef3 Trung", "Kinh Do": "106.20686", "Vi Do": "18.1456"}
+{"Ngay": "08/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "H\u00e0 T\u0129nh", "Xa": "P. B\u1eafc H\u00e0", "Kinh Do": "105.896", "Vi Do": "18.339"}
+{"Ngay": "08/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "TX. K\u1ef3 Anh", "Xa": "P. K\u1ef3 Trinh", "Kinh Do": "106.33883", "Vi Do": "18.01736"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "L\u1ec7 Thu\u1ef7", "Xa": "KimTh\u1ee7y", "Kinh Do": "106.82835", "Vi Do": "17.09236"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "L\u1ec7 Thu\u1ef7", "Xa": "KimTh\u1ee7y", "Kinh Do": "106.83083", "Vi Do": "17.09544"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "L\u1ec7 Thu\u1ef7", "Xa": "KimTh\u1ee7y", "Kinh Do": "106.8278", "Vi Do": "17.09653"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "Tuy\u00ean Ho\u00e1", "Xa": "Ng\u01b0 H\u00f3a", "Kinh Do": "106.22491", "Vi Do": "17.90454"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "Tuy\u00ean Ho\u00e1", "Xa": "Phong H\u00f3a", "Kinh Do": "106.16981", "Vi Do": "17.83533"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "Qu\u1ea3ng Ninh", "Xa": "Tr\u01b0\u1eddng Xu\u00e2n", "Kinh Do": "106.62315", "Vi Do": "17.26618"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "Qu\u1ea3ng Ninh", "Xa": "Tr\u01b0\u1eddng Xu\u00e2n", "Kinh Do": "106.62366", "Vi Do": "17.26206"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "Qu\u1ea3ng Tr\u1ea1ch", "Xa": "Qu\u1ea3ng H\u1ee3p", "Kinh Do": "106.28496", "Vi Do": "17.90786"}
+{"Ngay": "08/08/2020", "Tinh": "Ngh\u1ec7 An", "Huyen": "\u0110\u00f4 L\u01b0\u01a1ng", "Xa": "Tr\u00e0ng S\u01a1n", "Kinh Do": "105.30224", "Vi Do": "18.94471"}
+{"Ngay": "08/08/2020", "Tinh": "Ngh\u1ec7 An", "Huyen": "\u0110\u00f4 L\u01b0\u01a1ng", "Xa": "Tr\u00e0ng S\u01a1n", "Kinh Do": "105.29917", "Vi Do": "18.94481"}
+{"Ngay": "08/08/2020", "Tinh": "Ngh\u1ec7 An", "Huyen": "Thanh Ch\u01b0\u01a1ng", "Xa": "Thanh L\u00e2m", "Kinh Do": "105.45362", "Vi Do": "18.62207"}
+{"Ngay": "08/08/2020", "Tinh": "Ngh\u1ec7 An", "Huyen": "Thanh Ch\u01b0\u01a1ng", "Xa": "Thanh Nho", "Kinh Do": "105.19903", "Vi Do": "18.87224"}
+{"Ngay": "08/08/2020", "Tinh": "Ngh\u1ec7 An", "Huyen": "TX. Ho\u00e0ng Mai", "Xa": "Qu\u1ef3nh Vinh", "Kinh Do": "105.70306", "Vi Do": "19.2743"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "\u0110\u1ee9c Ph\u1ed5", "Xa": "Ph\u1ed5 C\u01b0\u1eddng", "Kinh Do": "108.971", "Vi Do": "14.707"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "\u0110\u1ee9c Ph\u1ed5", "Xa": "Ph\u1ed5 Kh\u00e1nh", "Kinh Do": "108.995", "Vi Do": "14.687"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "B\u00ecnh S\u01a1n", "Xa": "B\u00ecnh Minh", "Kinh Do": "108.64037", "Vi Do": "15.27803"}
+{"Ngay": "08/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "S\u01a1n H\u00e0", "Xa": "TT. Di L\u0103ng", "Kinh Do": "108.48035", "Vi Do": "15.07244"}
+{"Ngay": "08/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "Phong \u0110i\u1ec1n", "Xa": "Phong M\u1ef9", "Kinh Do": "107.243", "Vi Do": "16.535"}
+{"Ngay": "08/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "H\u01b0\u01a1ng Tr\u00e0", "Xa": "B\u00ecnh \u0110i\u1ec1n", "Kinh Do": "107.40688", "Vi Do": "16.35029"}
+{"Ngay": "08/08/2020", "Tinh": "H\u1ea3i D\u01b0\u01a1ng", "Huyen": "Kinh M\u00f4n", "Xa": "Hi\u1ec7p S\u01a1n", "Kinh Do": "106.52951", "Vi Do": "21.01625"}
+{"Ngay": "08/08/2020", "Tinh": "T\u00e2y Ninh", "Huyen": "T\u00e2n Bi\u00ean", "Xa": "Th\u1ea1nh T\u00e2y", "Kinh Do": "106.01234", "Vi Do": "11.56541"}
+{"Ngay": "08/08/2020", "Tinh": "H\u00e0 Nam", "Huyen": "Thanh Li\u00eam", "Xa": "Thanh Ngh\u1ecb", "Kinh Do": "105.89851", "Vi Do": "20.40245"}
+{"Ngay": "08/08/2020", "Tinh": "Thanh Ho\u00e1", "Huyen": "T\u0129nh Gia", "Xa": "T\u0129nh H\u1ea3i", "Kinh Do": "105.76864", "Vi Do": "19.35443"}
+{"Ngay": "08/08/2020", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": "107.966", "Vi Do": "16.106"}
+{"Ngay": "08/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "Ho\u00e0i Nh\u01a1n", "Xa": "Ho\u00e0i M\u1ef9", "Kinh Do": "109.092", "Vi Do": "14.415"}
+{"Ngay": "08/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "S\u01a1n H\u00f2a", "Xa": "S\u01a1n H\u1ed9i", "Kinh Do": "108.96198", "Vi Do": "13.32069"}
+{"Ngay": "08/08/2020", "Tinh": "Gia Lai", "Huyen": "Kr\u00f4ng Pa", "Xa": "Kr\u00f4ng N\u0103ng", "Kinh Do": "108.6427", "Vi Do": "13.02227"}
+{"Ngay": "07/08/2020", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": "108.01404", "Vi Do": "16.06193"}
+{"Ngay": "07/08/2020", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": "108.01304", "Vi Do": "16.06028"}
+{"Ngay": "07/08/2020", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": "107.99155", "Vi Do": "15.94126"}
+{"Ngay": "07/08/2020", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": "107.99065", "Vi Do": "15.94037"}
+{"Ngay": "07/08/2020", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": "108.13025", "Vi Do": "16.06011"}
+{"Ngay": "07/08/2020", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": "108.13258", "Vi Do": "16.05869"}
+{"Ngay": "07/08/2020", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh Nam", "Kinh Do": "108.13551", "Vi Do": "16.06063"}
+{"Ngay": "07/08/2020", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh Nam", "Kinh Do": "108.1345", "Vi Do": "16.05977"}
+{"Ngay": "07/08/2020", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh Nam", "Kinh Do": "108.13416", "Vi Do": "16.0603"}
+{"Ngay": "07/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Nam Giang", "Xa": "TT. Th\u1ea1nh M\u1ef9", "Kinh Do": "107.79381", "Vi Do": "15.74978"}
+{"Ngay": "07/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Nam Giang", "Xa": "TT. Th\u1ea1nh M\u1ef9", "Kinh Do": "107.79095", "Vi Do": "15.74521"}
+{"Ngay": "07/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Nam Giang", "Xa": "TT. Th\u1ea1nh M\u1ef9", "Kinh Do": "107.79336", "Vi Do": "15.74648"}
+{"Ngay": "07/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u1ea1i L\u1ed9c", "Xa": "\u0110\u1ea1i H\u01b0ng", "Kinh Do": "107.88817", "Vi Do": "15.85237"}
+{"Ngay": "07/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u1ea1i L\u1ed9c", "Xa": "\u0110\u1ea1i H\u01b0ng", "Kinh Do": "107.90148", "Vi Do": "15.8756"}
+{"Ngay": "07/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Ti\u00ean Ph\u01b0\u1edbc", "Xa": "Ti\u00ean L\u00e3nh", "Kinh Do": "108.173", "Vi Do": "15.489"}
+{"Ngay": "07/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Ph\u00fa Ninh", "Xa": "Tam \u0110\u1ea1i", "Kinh Do": "108.4932", "Vi Do": "15.48323"}
+{"Ngay": "07/08/2020", "Tinh": "Nam \u0110\u1ecbnh", "Huyen": "V\u1ee5 B\u1ea3n", "Xa": "Kim Th\u00e1i", "Kinh Do": "106.1", "Vi Do": "20.35"}
+{"Ngay": "07/08/2020", "Tinh": "Nam \u0110\u1ecbnh", "Huyen": "V\u1ee5 B\u1ea3n", "Xa": "Li\u00ean Minh", "Kinh Do": "106.11", "Vi Do": "20.348"}
+{"Ngay": "07/08/2020", "Tinh": "Nam \u0110\u1ecbnh", "Huyen": "H\u1ea3i H\u1eadu", "Xa": "H\u1ea3i Ph\u01b0\u01a1ng", "Kinh Do": "106.28", "Vi Do": "20.166"}
+{"Ngay": "07/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "H\u01b0\u01a1ng Tr\u00e0", "Xa": "B\u00ecnh \u0110i\u1ec1n", "Kinh Do": "107.422", "Vi Do": "16.329"}
+{"Ngay": "07/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "H\u01b0\u01a1ng Tr\u00e0", "Xa": "B\u00ecnh \u0110i\u1ec1n", "Kinh Do": "107.411", "Vi Do": "16.331"}
+{"Ngay": "07/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "H\u01b0\u01a1ng Tr\u00e0", "Xa": "H\u01b0\u01a1ng Th\u1ecd", "Kinh Do": "107.523", "Vi Do": "16.395"}
+{"Ngay": "07/08/2020", "Tinh": "Ngh\u1ec7 An", "Huyen": "Qu\u1ef3 H\u1ee3p", "Xa": "TT. Qu\u1ef3 H\u1ee3p", "Kinh Do": "105.188", "Vi Do": "19.325"}
+{"Ngay": "07/08/2020", "Tinh": "Ngh\u1ec7 An", "Huyen": "Qu\u1ef3nh L\u01b0u", "Xa": "Qu\u1ef3nh Tam", "Kinh Do": "105.50278", "Vi Do": "19.17174"}
+{"Ngay": "07/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "Qu\u1ea3ng Tr\u1ea1ch", "Xa": "Qu\u1ea3ng H\u1ee3p", "Kinh Do": "106.28474", "Vi Do": "17.89581"}
+{"Ngay": "07/08/2020", "Tinh": "Qu\u1ea3ng B\u00ecnh", "Huyen": "Qu\u1ea3ng Tr\u1ea1ch", "Xa": "Qu\u1ea3ng H\u1ee3p", "Kinh Do": "106.278", "Vi Do": "17.896"}
+{"Ngay": "07/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "V\u0129nh Linh", "Xa": "V\u0129nh H\u00e0", "Kinh Do": "106.84119", "Vi Do": "16.99522"}
+{"Ngay": "07/08/2020", "Tinh": "Tr\u00e0 Vinh", "Huyen": "Tr\u00e0 Vinh", "Xa": "P. 7", "Kinh Do": "106.336", "Vi Do": "9.93"}
+{"Ngay": "07/08/2020", "Tinh": "H\u00e0 T\u0129nh", "Huyen": "TX. H\u1ed3ng L\u0129nh", "Xa": "P. Nam H\u1ed3ng", "Kinh Do": "105.704", "Vi Do": "18.528"}
+{"Ngay": "07/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "B\u00ecnh S\u01a1n", "Xa": "B\u00ecnh Kh\u01b0\u01a1ng", "Kinh Do": "108.677", "Vi Do": "15.303"}
+{"Ngay": "06/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u00f4ng Giang", "Xa": "M\u00e0 Cooi", "Kinh Do": "107.629", "Vi Do": "15.81"}
+{"Ngay": "06/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u00f4ng Giang", "Xa": "M\u00e0 Cooi", "Kinh Do": "107.617", "Vi Do": "15.808"}
+{"Ngay": "06/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u1ea1i L\u1ed9c", "Xa": "\u0110\u1ea1i Hi\u1ec7p", "Kinh Do": "108.09785", "Vi Do": "15.93592"}
+{"Ngay": "06/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u1ea1i L\u1ed9c", "Xa": "\u0110\u1ea1i Quang", "Kinh Do": "108.04656", "Vi Do": "15.90908"}
+{"Ngay": "06/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "N\u00fai Th\u00e0nh", "Xa": "Tam M\u1ef9 T\u00e2y", "Kinh Do": "108.57592", "Vi Do": "15.35263"}
+{"Ngay": "06/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "N\u00fai Th\u00e0nh", "Xa": "Tam Ngh\u0129a", "Kinh Do": "108.67292", "Vi Do": "15.37162"}
+{"Ngay": "06/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Duy Xuy\u00ean", "Xa": "Duy Trung", "Kinh Do": "108.25533", "Vi Do": "15.8098"}
+{"Ngay": "06/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Th\u0103ng B\u00ecnh", "Xa": "B\u00ecnh Tr\u1ecb", "Kinh Do": "108.28972", "Vi Do": "15.60535"}
+{"Ngay": "06/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Ti\u00ean Ph\u01b0\u1edbc", "Xa": "Ti\u00ean S\u01a1n", "Kinh Do": "108.29398", "Vi Do": "15.60082"}
+{"Ngay": "06/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "S\u01a1n H\u00e0", "Xa": "S\u01a1n Giang", "Kinh Do": "108.5232", "Vi Do": "15.02785"}
+{"Ngay": "06/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "S\u01a1n H\u00e0", "Xa": "S\u01a1n H\u1ea1", "Kinh Do": "108.55347", "Vi Do": "15.10508"}
+{"Ngay": "06/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "S\u01a1n H\u00e0", "Xa": "S\u01a1n K\u1ef3", "Kinh Do": "108.458", "Vi Do": "14.861"}
+{"Ngay": "06/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "S\u01a1n H\u00e0", "Xa": "S\u01a1n K\u1ef3", "Kinh Do": "108.447", "Vi Do": "14.86"}
+{"Ngay": "06/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "S\u01a1n H\u00e0", "Xa": "S\u01a1n K\u1ef3", "Kinh Do": "108.456", "Vi Do": "14.871"}
+{"Ngay": "06/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "S\u01a1n T\u00e2y", "Xa": "S\u01a1n L\u1eadp", "Kinh Do": "108.445", "Vi Do": "14.869"}
+{"Ngay": "06/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "S\u01a1n T\u00e2y", "Xa": "S\u01a1n M\u00f9a", "Kinh Do": "108.357", "Vi Do": "15.011"}
+{"Ngay": "06/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "B\u00ecnh S\u01a1n", "Xa": "B\u00ecnh \u0110\u00f4ng", "Kinh Do": "108.78984", "Vi Do": "15.38204"}
+{"Ngay": "06/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "Ph\u00fa L\u1ed9c", "Xa": "L\u1ed9c Th\u1ee7y", "Kinh Do": "107.92808", "Vi Do": "16.29068"}
+{"Ngay": "06/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "Ph\u00fa L\u1ed9c", "Xa": "L\u1ed9c Th\u1ee7y", "Kinh Do": "107.92761", "Vi Do": "16.29602"}
+{"Ngay": "06/08/2020", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": "108.10529", "Vi Do": "15.94779"}
+{"Ngay": "06/08/2020", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": "108.10355", "Vi Do": "15.95285"}
+{"Ngay": "06/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "Ho\u00e0i Nh\u01a1n", "Xa": "Ho\u00e0i T\u00e2n", "Kinh Do": "108.98515", "Vi Do": "14.4726"}
+{"Ngay": "06/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "TX. S\u00f4ng C\u1ea7u", "Xa": "Xu\u00e2n L\u00e2m", "Kinh Do": "109.17873", "Vi Do": "13.50612"}
+{"Ngay": "05/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "\u0110\u1ed3ng Xu\u00e2n", "Xa": "\u0110a L\u1ed9c", "Kinh Do": "109.10915", "Vi Do": "13.57495"}
+{"Ngay": "05/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "\u0110\u1ed3ng Xu\u00e2n", "Xa": "\u0110a L\u1ed9c", "Kinh Do": "109.10687", "Vi Do": "13.55496"}
+{"Ngay": "05/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "\u0110\u1ed3ng Xu\u00e2n", "Xa": "Xu\u00e2n L\u00e3nh", "Kinh Do": "109.03235", "Vi Do": "13.51871"}
+{"Ngay": "05/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "\u0110\u1ed3ng Xu\u00e2n", "Xa": "Xu\u00e2n L\u00e3nh", "Kinh Do": "109.03085", "Vi Do": "13.519"}
+{"Ngay": "05/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "S\u01a1n H\u00f2a", "Xa": "C\u00e0 L\u00fai", "Kinh Do": "108.86922", "Vi Do": "13.19263"}
+{"Ngay": "05/08/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "S\u01a1n H\u00f2a", "Xa": "C\u00e0 L\u00fai", "Kinh Do": "108.86437", "Vi Do": "13.1918"}
+{"Ngay": "05/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "Ph\u00fa L\u1ed9c", "Xa": "L\u1ed9c Ti\u1ebfn", "Kinh Do": "108.02754", "Vi Do": "16.28959"}
+{"Ngay": "05/08/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "Ph\u00fa L\u1ed9c", "Xa": "L\u1ed9c Ti\u1ebfn", "Kinh Do": "108.0326", "Vi Do": "16.29048"}
+{"Ngay": "05/08/2020", "Tinh": "Long An", "Huyen": "\u0110\u1ee9c H\u00f2a", "Xa": "\u0110\u1ee9c H\u00f2a H\u1ea1", "Kinh Do": "106.46469", "Vi Do": "10.79366"}
+{"Ngay": "05/08/2020", "Tinh": "Long An", "Huyen": "\u0110\u1ee9c H\u00f2a", "Xa": "\u0110\u1ee9c H\u00f2a H\u1ea1", "Kinh Do": "106.4653", "Vi Do": "10.79721"}
+{"Ngay": "05/08/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u1ea1i L\u1ed9c", "Xa": "\u0110\u1ea1i \u0110\u1ed3ng", "Kinh Do": "107.98814", "Vi Do": "15.88375"}
+{"Ngay": "05/08/2020", "Tinh": "Ki\u00ean Giang", "Huyen": "Ki\u00ean L\u01b0\u01a1ng", "Xa": "TT. Ki\u00ean L\u01b0\u01a1ng", "Kinh Do": "104.62009", "Vi Do": "10.27236"}
+{"Ngay": "04/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "Ho\u00e0i Nh\u01a1n", "Xa": "Ho\u00e0i M\u1ef9", "Kinh Do": "109.0995", "Vi Do": "14.43844"}
+{"Ngay": "04/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "Ho\u00e0i Nh\u01a1n", "Xa": "Ho\u00e0i M\u1ef9", "Kinh Do": "109.09901", "Vi Do": "14.44179"}
+{"Ngay": "04/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "Ho\u00e0i Nh\u01a1n", "Xa": "Ho\u00e0i M\u1ef9", "Kinh Do": "109.10371", "Vi Do": "14.45957"}
+{"Ngay": "04/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "Ho\u00e0i Nh\u01a1n", "Xa": "Ho\u00e0i M\u1ef9", "Kinh Do": "109.101", "Vi Do": "14.442"}
+{"Ngay": "04/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "Ho\u00e0i Nh\u01a1n", "Xa": "Ho\u00e0i M\u1ef9", "Kinh Do": "109.091", "Vi Do": "14.44"}
+{"Ngay": "04/08/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "Ho\u00e0i \u00c2n", "Xa": "\u00c2n H\u1ea3o \u0110\u00f4ng", "Kinh Do": "108.934", "Vi Do": "14.529"}
+{"Ngay": "04/08/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "TT. M\u1ef9 An", "Kinh Do": "105.848", "Vi Do": "10.519"}
+{"Ngay": "04/08/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "TT. M\u1ef9 An", "Kinh Do": "105.837", "Vi Do": "10.517"}
+{"Ngay": "04/08/2020", "Tinh": "B\u00ecnh Thu\u1eadn", "Huyen": "Phan Thi\u1ebft", "Xa": "P. M\u0169i N\u00e9", "Kinh Do": "108.287", "Vi Do": "10.96"}
+{"Ngay": "04/08/2020", "Tinh": "B\u00e0 R\u1ecba-V\u0169ng T\u00e0u", "Huyen": "Xuy\u00ean M\u1ed9c", "Xa": "H\u00f2a Hi\u1ec7p", "Kinh Do": "107.501", "Vi Do": "10.69"}
+{"Ngay": "04/08/2020", "Tinh": "Ti\u1ec1n Giang", "Huyen": "TX. Cai L\u1eady", "Xa": "P. 2", "Kinh Do": "106.114", "Vi Do": "10.407"}
+{"Ngay": "04/08/2020", "Tinh": "\u0110\u1ed3ng Nai", "Huyen": "Th\u1ed1ng Nh\u1ea5t", "Xa": "Gia T\u00e2n 2", "Kinh Do": "107.171", "Vi Do": "11.061"}
+{"Ngay": "04/08/2020", "Tinh": "Kh\u00e1nh H\u00f2a", "Huyen": "Cam Ranh", "Xa": "Cam B\u00ecnh", "Kinh Do": "109.246", "Vi Do": "11.837"}
+{"Ngay": "03/08/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "V\u0129nh Linh", "Xa": "V\u0129nh H\u00e0", "Kinh Do": "106.85374", "Vi Do": "16.98148"}
+{"Ngay": "03/08/2020", "Tinh": "Kh\u00e1nh H\u00f2a", "Huyen": "Kh\u00e1nh S\u01a1n", "Xa": "Ba C\u1ee5m Nam", "Kinh Do": "108.97677", "Vi Do": "11.92996"}
+{"Ngay": "03/08/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "M'\u0110r\u1eafk", "Xa": "Ea Trang", "Kinh Do": "108.90302", "Vi Do": "12.61868"}
+{"Ngay": "02/08/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "Minh Long", "Xa": "Long Mai", "Kinh Do": "108.731", "Vi Do": "14.946"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "\u0110\u1ed1c B\u00ecnh Ki\u1ec1u", "Kinh Do": "105.90176", "Vi Do": "10.54317"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "\u0110\u1ed1c B\u00ecnh Ki\u1ec1u", "Kinh Do": "105.937", "Vi Do": "10.517"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "H\u01b0ng Th\u1ea1nh", "Kinh Do": "105.70219", "Vi Do": "10.62821"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "H\u01b0ng Th\u1ea1nh", "Kinh Do": "105.68055", "Vi Do": "10.66111"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "H\u01b0ng Th\u1ea1nh", "Kinh Do": "105.70644", "Vi Do": "10.6288"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "H\u01b0ng Th\u1ea1nh", "Kinh Do": "105.70643", "Vi Do": "10.62899"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "H\u01b0ng Th\u1ea1nh", "Kinh Do": "105.70219", "Vi Do": "10.62844"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "H\u01b0ng Th\u1ea1nh", "Kinh Do": "105.698", "Vi Do": "10.632"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "H\u01b0ng Th\u1ea1nh", "Kinh Do": "105.68", "Vi Do": "10.654"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "L\u00e1ng Bi\u1ec3n", "Kinh Do": "105.812", "Vi Do": "10.49"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "M\u1ef9 \u0110\u00f4ng", "Kinh Do": "105.80862", "Vi Do": "10.5088"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "M\u1ef9 H\u00f2a", "Kinh Do": "105.8129", "Vi Do": "10.58081"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "M\u1ef9 H\u00f2a", "Kinh Do": "105.81033", "Vi Do": "10.56706"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "M\u1ef9 H\u00f2a", "Kinh Do": "105.79196", "Vi Do": "10.57355"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "M\u1ef9 H\u00f2a", "Kinh Do": "105.80917", "Vi Do": "10.57584"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "M\u1ef9 H\u00f2a", "Kinh Do": "105.794", "Vi Do": "10.57"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "M\u1ef9 Qu\u00fd", "Kinh Do": "105.785", "Vi Do": "10.569"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "M\u1ef9 Qu\u00fd", "Kinh Do": "105.756", "Vi Do": "10.513"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "Ph\u00fa \u0110i\u1ec1n", "Kinh Do": "105.87", "Vi Do": "10.452"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "Ph\u00fa \u0110i\u1ec1n", "Kinh Do": "105.879", "Vi Do": "10.453"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "T\u00e2n Ki\u1ec1u", "Kinh Do": "105.85989", "Vi Do": "10.59156"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "T\u00e2n Ki\u1ec1u", "Kinh Do": "105.86365", "Vi Do": "10.59655"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "T\u00e2n Ki\u1ec1u", "Kinh Do": "105.86423", "Vi Do": "10.59214"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "T\u00e2n Ki\u1ec1u", "Kinh Do": "105.856", "Vi Do": "10.588"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "T\u00e2n Ki\u1ec1u", "Kinh Do": "105.865", "Vi Do": "10.589"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "Tr\u01b0\u1eddng Xu\u00e2n", "Kinh Do": "105.79532", "Vi Do": "10.61422"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "Tr\u01b0\u1eddng Xu\u00e2n", "Kinh Do": "105.79474", "Vi Do": "10.61861"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "Tr\u01b0\u1eddng Xu\u00e2n", "Kinh Do": "105.70277", "Vi Do": "10.62407"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "Tr\u01b0\u1eddng Xu\u00e2n", "Kinh Do": "105.79648", "Vi Do": "10.60544"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "Tr\u01b0\u1eddng Xu\u00e2n", "Kinh Do": "105.73684", "Vi Do": "10.6285"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "Tr\u01b0\u1eddng Xu\u00e2n", "Kinh Do": "105.73678", "Vi Do": "10.62853"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "Tr\u01b0\u1eddng Xu\u00e2n", "Kinh Do": "105.785", "Vi Do": "10.633"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "Tr\u01b0\u1eddng Xu\u00e2n", "Kinh Do": "105.788", "Vi Do": "10.615"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "Tr\u01b0\u1eddng Xu\u00e2n", "Kinh Do": "105.797", "Vi Do": "10.616"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "Tr\u01b0\u1eddng Xu\u00e2n", "Kinh Do": "105.798", "Vi Do": "10.607"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "Tr\u01b0\u1eddng Xu\u00e2n", "Kinh Do": "105.74", "Vi Do": "10.626"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "Tr\u01b0\u1eddng Xu\u00e2n", "Kinh Do": "105.731", "Vi Do": "10.625"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Th\u00e1p M\u01b0\u1eddi", "Xa": "TT. M\u1ef9 An", "Kinh Do": "105.83777", "Vi Do": "10.52591"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Cao L\u00e3nh", "Xa": "Ba Sao", "Kinh Do": "105.70354", "Vi Do": "10.51667"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Cao L\u00e3nh", "Xa": "Ba Sao", "Kinh Do": "105.70399", "Vi Do": "10.51746"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Cao L\u00e3nh", "Xa": "Ba Sao", "Kinh Do": "105.66077", "Vi Do": "10.55164"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Cao L\u00e3nh", "Xa": "Ba Sao", "Kinh Do": "105.649", "Vi Do": "10.55"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Cao L\u00e3nh", "Xa": "Ba Sao", "Kinh Do": "105.684", "Vi Do": "10.564"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Cao L\u00e3nh", "Xa": "Ba Sao", "Kinh Do": "105.707", "Vi Do": "10.512"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Cao L\u00e3nh", "Xa": "Ba Sao", "Kinh Do": "105.658", "Vi Do": "10.551"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Cao L\u00e3nh", "Xa": "G\u00e1o Gi\u1ed3ng", "Kinh Do": "105.63412", "Vi Do": "10.65494"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Cao L\u00e3nh", "Xa": "M\u1ef9 H\u1ed9i", "Kinh Do": "105.72186", "Vi Do": "10.44371"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Cao L\u00e3nh", "Xa": "Ph\u01b0\u01a1ng Th\u1ecbnh", "Kinh Do": "105.661", "Vi Do": "10.61421"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Cao L\u00e3nh", "Xa": "Ph\u01b0\u01a1ng Th\u1ecbnh", "Kinh Do": "105.66109", "Vi Do": "10.61368"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Cao L\u00e3nh", "Xa": "Ph\u01b0\u01a1ng Th\u1ecbnh", "Kinh Do": "105.65598", "Vi Do": "10.55543"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Th\u00e1p", "Huyen": "Sa \u0110\u00e9c", "Xa": "T\u00e2n Quy T\u00e2y", "Kinh Do": "105.73415", "Vi Do": "10.30649"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng B\u00f4ng", "Xa": "C\u01b0 Dr\u0103m", "Kinh Do": "108.504", "Vi Do": "12.483"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng B\u00f4ng", "Xa": "C\u01b0 Dr\u0103m", "Kinh Do": "108.65632", "Vi Do": "12.44624"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng B\u00f4ng", "Xa": "H\u00f2a Phong", "Kinh Do": "108.47569", "Vi Do": "12.45216"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng B\u00f4ng", "Xa": "Yang Mao", "Kinh Do": "108.49013", "Vi Do": "12.34717"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng B\u00f4ng", "Xa": "Yang Mao", "Kinh Do": "108.54399", "Vi Do": "12.4054"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng B\u00f4ng", "Xa": "Yang Mao", "Kinh Do": "108.586", "Vi Do": "12.333"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng B\u00f4ng", "Xa": "Yang Mao", "Kinh Do": "108.61651", "Vi Do": "12.3044"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng B\u00f4ng", "Xa": "Yang Mao", "Kinh Do": "108.61854", "Vi Do": "12.30445"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng B\u00f4ng", "Xa": "Yang Mao", "Kinh Do": "108.6142", "Vi Do": "12.30504"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng B\u00f4ng", "Xa": "Yang Mao", "Kinh Do": "108.59326", "Vi Do": "12.32137"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng B\u00f4ng", "Xa": "Yang Mao", "Kinh Do": "108.58695", "Vi Do": "12.40704"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng B\u00f4ng", "Xa": "Yang Mao", "Kinh Do": "108.61217", "Vi Do": "12.30496"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Ea S\u00fap", "Xa": "C\u01b0 KBang", "Kinh Do": "107.98808", "Vi Do": "13.18836"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Ea S\u00fap", "Xa": "C\u01b0 M'Lan", "Kinh Do": "107.82106", "Vi Do": "13.04091"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Ea S\u00fap", "Xa": "C\u01b0 M'Lan", "Kinh Do": "107.73885", "Vi Do": "13.04177"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Ea S\u00fap", "Xa": "C\u01b0 M'Lan", "Kinh Do": "107.93498", "Vi Do": "12.98572"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Ea S\u00fap", "Xa": "Ia L\u1ed1p", "Kinh Do": "107.72744", "Vi Do": "13.3596"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng N\u0103ng", "Xa": "C\u01b0 Kl\u00f4ng", "Kinh Do": "108.43928", "Vi Do": "13.09067"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng N\u0103ng", "Xa": "\u0110Li\u00ea Ya", "Kinh Do": "108.42487", "Vi Do": "13.13868"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng N\u0103ng", "Xa": "\u0110Li\u00ea Ya", "Kinh Do": "108.4212", "Vi Do": "13.14377"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng N\u0103ng", "Xa": "\u0110Li\u00ea Ya", "Kinh Do": "108.4213", "Vi Do": "13.13827"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Bu\u00f4n \u0110\u00f4n", "Xa": "Ea Huar", "Kinh Do": "107.89178", "Vi Do": "12.87941"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Bu\u00f4n \u0110\u00f4n", "Xa": "Ea Wer", "Kinh Do": "107.87394", "Vi Do": "12.86665"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Bu\u00f4n \u0110\u00f4n", "Xa": "Ea Wer", "Kinh Do": "107.87714", "Vi Do": "12.86703"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "M'\u0110r\u1eafk", "Xa": "C\u01b0 San", "Kinh Do": "108.7408", "Vi Do": "12.57806"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "M'\u0110r\u1eafk", "Xa": "Ea Lai", "Kinh Do": "108.713", "Vi Do": "12.858"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "M'\u0110r\u1eafk", "Xa": "Ea Trang", "Kinh Do": "108.83656", "Vi Do": "12.64561"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "L\u1eafk", "Xa": "B\u00f4ng Krang", "Kinh Do": "108.476", "Vi Do": "12.34"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "L\u1eafk", "Xa": "Nam Ka", "Kinh Do": "108.109", "Vi Do": "12.265"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng P\u1eafc", "Xa": "Ea Yi\u00eang", "Kinh Do": "108.3828", "Vi Do": "12.56592"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng P\u1eafc", "Xa": "Ea Yi\u00eang", "Kinh Do": "108.38423", "Vi Do": "12.56349"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Ea H'Leo", "Xa": "Ea Ral", "Kinh Do": "108.18262", "Vi Do": "13.30081"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Ea H'Leo", "Xa": "Ea Ral", "Kinh Do": "108.16847", "Vi Do": "13.30461"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk L\u1eafk", "Huyen": "Kr\u00f4ng Ana", "Xa": "Dur KM\u0103l", "Kinh Do": "108.1621", "Vi Do": "12.46595"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Ph\u01b0\u1edbc S\u01a1n", "Xa": "Ph\u01b0\u1edbc \u0110\u1ee9c", "Kinh Do": "107.77719", "Vi Do": "15.43713"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Ph\u01b0\u1edbc S\u01a1n", "Xa": "Ph\u01b0\u1edbc \u0110\u1ee9c", "Kinh Do": "107.76244", "Vi Do": "15.44089"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Ph\u01b0\u1edbc S\u01a1n", "Xa": "Ph\u01b0\u1edbc \u0110\u1ee9c", "Kinh Do": "107.75809", "Vi Do": "15.44583"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Ph\u01b0\u1edbc S\u01a1n", "Xa": "Ph\u01b0\u1edbc \u0110\u1ee9c", "Kinh Do": "107.75932", "Vi Do": "15.44053"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Ph\u01b0\u1edbc S\u01a1n", "Xa": "Ph\u01b0\u1edbc H\u00f2a", "Kinh Do": "107.8542", "Vi Do": "15.46233"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Ph\u01b0\u1edbc S\u01a1n", "Xa": "Ph\u01b0\u1edbc H\u00f2a", "Kinh Do": "107.912", "Vi Do": "15.445"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Ph\u01b0\u1edbc S\u01a1n", "Xa": "Ph\u01b0\u1edbc M\u1ef9", "Kinh Do": "107.73019", "Vi Do": "15.36391"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Ph\u01b0\u1edbc S\u01a1n", "Xa": "Ph\u01b0\u1edbc M\u1ef9", "Kinh Do": "107.73208", "Vi Do": "15.36147"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Ph\u01b0\u1edbc S\u01a1n", "Xa": "Ph\u01b0\u1edbc M\u1ef9", "Kinh Do": "107.73383", "Vi Do": "15.36433"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Ph\u01b0\u1edbc S\u01a1n", "Xa": "TT. Kh\u00e2m \u0110\u1ee9c", "Kinh Do": "107.78922", "Vi Do": "15.47382"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "B\u1eafc Tr\u00e0 My", "Xa": "Tr\u00e0 Bui", "Kinh Do": "108.02999", "Vi Do": "15.39334"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "B\u1eafc Tr\u00e0 My", "Xa": "Tr\u00e0 Bui", "Kinh Do": "108.02511", "Vi Do": "15.38786"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "B\u1eafc Tr\u00e0 My", "Xa": "Tr\u00e0 Bui", "Kinh Do": "108.02222", "Vi Do": "15.39244"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "B\u1eafc Tr\u00e0 My", "Xa": "Tr\u00e0 Bui", "Kinh Do": "108.02055", "Vi Do": "15.38737"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "B\u1eafc Tr\u00e0 My", "Xa": "TT. Tr\u00e0 My", "Kinh Do": "108.204", "Vi Do": "15.374"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "B\u1eafc Tr\u00e0 My", "Xa": "TT. Tr\u00e0 My", "Kinh Do": "108.22397", "Vi Do": "15.34932"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "B\u1eafc Tr\u00e0 My", "Xa": "TT. Tr\u00e0 My", "Kinh Do": "108.22224", "Vi Do": "15.34831"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "B\u1eafc Tr\u00e0 My", "Xa": "TT. Tr\u00e0 My", "Kinh Do": "108.21902", "Vi Do": "15.34991"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Nam Giang", "Xa": "Ch\u00e0 V\u00e0l", "Kinh Do": "107.51895", "Vi Do": "15.60338"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Nam Giang", "Xa": "Ch\u00e0 V\u00e0l", "Kinh Do": "107.52635", "Vi Do": "15.63105"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Nam Giang", "Xa": "\u0110\u1eafc T\u00f4i", "Kinh Do": "107.50224", "Vi Do": "15.59613"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Nam Giang", "Xa": "\u0110\u1eafc T\u00f4i", "Kinh Do": "107.50568", "Vi Do": "15.59652"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u00f4ng Giang", "Xa": "J\u01a1 Ng\u00e2y", "Kinh Do": "107.792", "Vi Do": "15.94"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u00f4ng Giang", "Xa": "S\u00f4ng K\u00f4n", "Kinh Do": "107.785", "Vi Do": "15.96"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "\u0110\u1ea1i L\u1ed9c", "Xa": "\u0110\u1ea1i \u0110\u1ed3ng", "Kinh Do": "107.96774", "Vi Do": "15.88765"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Hi\u1ec7p \u0110\u1ee9c", "Xa": "Th\u0103ng Ph\u01b0\u1edbc", "Kinh Do": "108.17", "Vi Do": "15.555"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "Ti\u00ean Ph\u01b0\u1edbc", "Xa": "Ti\u00ean Hi\u1ec7p", "Kinh Do": "108.221", "Vi Do": "15.428"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Nam", "Huyen": "T\u00e2y Giang", "Xa": "Dang", "Kinh Do": "107.564", "Vi Do": "15.807"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "\u0110a Kr\u00f4ng", "Xa": "Ba Nang", "Kinh Do": "106.86678", "Vi Do": "16.55425"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "\u0110a Kr\u00f4ng", "Xa": "\u0110a Kr\u00f4ng", "Kinh Do": "106.83683", "Vi Do": "16.63402"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "\u0110a Kr\u00f4ng", "Xa": "\u0110a Kr\u00f4ng", "Kinh Do": "106.83807", "Vi Do": "16.63146"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "\u0110a Kr\u00f4ng", "Xa": "\u0110a Kr\u00f4ng", "Kinh Do": "106.84025", "Vi Do": "16.63441"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "\u0110a Kr\u00f4ng", "Xa": "\u0110a Kr\u00f4ng", "Kinh Do": "106.83861", "Vi Do": "16.63671"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "\u0110a Kr\u00f4ng", "Xa": "T\u00e0 Long", "Kinh Do": "106.91581", "Vi Do": "16.56487"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "\u0110a Kr\u00f4ng", "Xa": "T\u00e0 Long", "Kinh Do": "106.91891", "Vi Do": "16.56521"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "\u0110a Kr\u00f4ng", "Xa": "T\u00e0 Long", "Kinh Do": "106.90976", "Vi Do": "16.5642"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "\u0110a Kr\u00f4ng", "Xa": "T\u00e0 Long", "Kinh Do": "106.93471", "Vi Do": "16.50294"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "\u0110a Kr\u00f4ng", "Xa": "T\u00e0 Long", "Kinh Do": "106.91186", "Vi Do": "16.49513"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "\u0110a Kr\u00f4ng", "Xa": "T\u00e0 Long", "Kinh Do": "106.925", "Vi Do": "16.56588"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "\u0110a Kr\u00f4ng", "Xa": "T\u00e0 Long", "Kinh Do": "106.928", "Vi Do": "16.563"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "\u0110a Kr\u00f4ng", "Xa": "T\u00e0 Long", "Kinh Do": "106.917", "Vi Do": "16.562"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "\u0110a Kr\u00f4ng", "Xa": "T\u00e0 R\u1ee5t", "Kinh Do": "107.02989", "Vi Do": "16.44548"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "\u0110a Kr\u00f4ng", "Xa": "T\u00e0 R\u1ee5t", "Kinh Do": "107.03389", "Vi Do": "16.44591"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "\u0110a Kr\u00f4ng", "Xa": "T\u00e0 R\u1ee5t", "Kinh Do": "107.0364", "Vi Do": "16.43973"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "\u0110a Kr\u00f4ng", "Xa": "T\u00e0 R\u1ee5t", "Kinh Do": "107.03461", "Vi Do": "16.44074"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "H\u01b0\u1edbng H\u00f3a", "Xa": "H\u00fac", "Kinh Do": "106.79345", "Vi Do": "16.5565"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "H\u01b0\u1edbng H\u00f3a", "Xa": "H\u01b0\u1edbng Linh", "Kinh Do": "106.75984", "Vi Do": "16.7005"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "V\u0129nh Linh", "Xa": "V\u0129nh \u00d4", "Kinh Do": "106.73862", "Vi Do": "16.90056"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Tr\u1ecb", "Huyen": "Gio Linh", "Xa": "Linh Th\u01b0\u1ee3ng", "Kinh Do": "106.75287", "Vi Do": "16.8918"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "Ba T\u01a1", "Xa": "Ba B\u00edch", "Kinh Do": "108.76711", "Vi Do": "14.71817"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "Ba T\u01a1", "Xa": "Ba B\u00edch", "Kinh Do": "108.76746", "Vi Do": "14.72069"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "Ba T\u01a1", "Xa": "Ba B\u00edch", "Kinh Do": "108.758", "Vi Do": "14.712"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "Ba T\u01a1", "Xa": "Ba B\u00edch", "Kinh Do": "108.764", "Vi Do": "14.718"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "Ba T\u01a1", "Xa": "Ba \u0110i\u1ec1n", "Kinh Do": "108.66", "Vi Do": "14.838"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "Ba T\u01a1", "Xa": "Ba \u0110i\u1ec1n", "Kinh Do": "108.652", "Vi Do": "14.849"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "Ba T\u01a1", "Xa": "Ba \u0110i\u1ec1n", "Kinh Do": "108.65", "Vi Do": "14.84"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "Ba T\u01a1", "Xa": "Ba \u0110i\u1ec1n", "Kinh Do": "108.661", "Vi Do": "14.847"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "Ba T\u01a1", "Xa": "Ba Dinh", "Kinh Do": "108.6656", "Vi Do": "14.7116"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "Ba T\u01a1", "Xa": "Ba Dinh", "Kinh Do": "108.66029", "Vi Do": "14.71227"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "Ba T\u01a1", "Xa": "Ba Dinh", "Kinh Do": "108.65949", "Vi Do": "14.70775"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "S\u01a1n H\u00e0", "Xa": "S\u01a1n K\u1ef3", "Kinh Do": "108.46", "Vi Do": "14.886"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "S\u01a1n H\u00e0", "Xa": "S\u01a1n K\u1ef3", "Kinh Do": "108.47973", "Vi Do": "14.88385"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "S\u01a1n H\u00e0", "Xa": "TT. Di L\u0103ng", "Kinh Do": "108.454", "Vi Do": "15.071"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "B\u00ecnh S\u01a1n", "Xa": "B\u00ecnh \u0110\u00f4ng", "Kinh Do": "108.78992", "Vi Do": "15.3829"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Ng\u00e3i", "Huyen": "B\u00ecnh S\u01a1n", "Xa": "B\u00ecnh \u0110\u00f4ng", "Kinh Do": "108.79821", "Vi Do": "15.3726"}
+{"Ngay": "14/05/2020", "Tinh": "Kh\u00e1nh H\u00f2a", "Huyen": "TX. Ninh H\u00f2a", "Xa": "Ninh S\u01a1n", "Kinh Do": "109.09694", "Vi Do": "12.66525"}
+{"Ngay": "14/05/2020", "Tinh": "Kh\u00e1nh H\u00f2a", "Huyen": "TX. Ninh H\u00f2a", "Xa": "Ninh S\u01a1n", "Kinh Do": "109.07321", "Vi Do": "12.62503"}
+{"Ngay": "14/05/2020", "Tinh": "Kh\u00e1nh H\u00f2a", "Huyen": "TX. Ninh H\u00f2a", "Xa": "Ninh S\u01a1n", "Kinh Do": "109.10083", "Vi Do": "12.66569"}
+{"Ngay": "14/05/2020", "Tinh": "Kh\u00e1nh H\u00f2a", "Huyen": "TX. Ninh H\u00f2a", "Xa": "Ninh T\u00e2y", "Kinh Do": "108.937", "Vi Do": "12.603"}
+{"Ngay": "14/05/2020", "Tinh": "Kh\u00e1nh H\u00f2a", "Huyen": "TX. Ninh H\u00f2a", "Xa": "Ninh T\u00e2y", "Kinh Do": "108.90042", "Vi Do": "12.49045"}
+{"Ngay": "14/05/2020", "Tinh": "Kh\u00e1nh H\u00f2a", "Huyen": "TX. Ninh H\u00f2a", "Xa": "Ninh T\u00e2y", "Kinh Do": "108.9382", "Vi Do": "12.60131"}
+{"Ngay": "14/05/2020", "Tinh": "Kh\u00e1nh H\u00f2a", "Huyen": "TX. Ninh H\u00f2a", "Xa": "Ninh T\u00e2y", "Kinh Do": "108.93053", "Vi Do": "12.60232"}
+{"Ngay": "14/05/2020", "Tinh": "Kh\u00e1nh H\u00f2a", "Huyen": "TX. Ninh H\u00f2a", "Xa": "Ninh Trung", "Kinh Do": "109.10355", "Vi Do": "12.5457"}
+{"Ngay": "14/05/2020", "Tinh": "Kh\u00e1nh H\u00f2a", "Huyen": "Kh\u00e1nh V\u0129nh", "Xa": "Kh\u00e1nh Th\u01b0\u1ee3ng", "Kinh Do": "108.76991", "Vi Do": "12.30318"}
+{"Ngay": "14/05/2020", "Tinh": "Kh\u00e1nh H\u00f2a", "Huyen": "Kh\u00e1nh V\u0129nh", "Xa": "Kh\u00e1nh Th\u01b0\u1ee3ng", "Kinh Do": "108.77166", "Vi Do": "12.30339"}
+{"Ngay": "14/05/2020", "Tinh": "Kh\u00e1nh H\u00f2a", "Huyen": "Kh\u00e1nh V\u0129nh", "Xa": "Kh\u00e1nh Th\u01b0\u1ee3ng", "Kinh Do": "108.764", "Vi Do": "12.333"}
+{"Ngay": "14/05/2020", "Tinh": "Kh\u00e1nh H\u00f2a", "Huyen": "Kh\u00e1nh V\u0129nh", "Xa": "Kh\u00e1nh Th\u01b0\u1ee3ng", "Kinh Do": "108.76517", "Vi Do": "12.33395"}
+{"Ngay": "14/05/2020", "Tinh": "Kon Tum", "Huyen": "Ia H' Drai", "Xa": "Ia Dal", "Kinh Do": "107.44519", "Vi Do": "14.03029"}
+{"Ngay": "14/05/2020", "Tinh": "Kon Tum", "Huyen": "Ia H' Drai", "Xa": "Ia T\u01a1i", "Kinh Do": "107.48588", "Vi Do": "14.0351"}
+{"Ngay": "14/05/2020", "Tinh": "Kon Tum", "Huyen": "Ia H' Drai", "Xa": "Ia T\u01a1i", "Kinh Do": "107.48062", "Vi Do": "14.03577"}
+{"Ngay": "14/05/2020", "Tinh": "Kon Tum", "Huyen": "Ia H' Drai", "Xa": "Ia T\u01a1i", "Kinh Do": "107.47401", "Vi Do": "14.03164"}
+{"Ngay": "14/05/2020", "Tinh": "Kon Tum", "Huyen": "Ia H' Drai", "Xa": "Ia T\u01a1i", "Kinh Do": "107.47969", "Vi Do": "14.03093"}
+{"Ngay": "14/05/2020", "Tinh": "Kon Tum", "Huyen": "Ia H' Drai", "Xa": "Ia T\u01a1i", "Kinh Do": "107.54337", "Vi Do": "14.07025"}
+{"Ngay": "14/05/2020", "Tinh": "Kon Tum", "Huyen": "Kon Pl\u00f4ng", "Xa": "Ngok Tem", "Kinh Do": "108.40437", "Vi Do": "14.79969"}
+{"Ngay": "14/05/2020", "Tinh": "Kon Tum", "Huyen": "Kon Pl\u00f4ng", "Xa": "Ngok Tem", "Kinh Do": "108.40154", "Vi Do": "14.79936"}
+{"Ngay": "14/05/2020", "Tinh": "Kon Tum", "Huyen": "Kon Pl\u00f4ng", "Xa": "Ngok Tem", "Kinh Do": "108.40334", "Vi Do": "14.79841"}
+{"Ngay": "14/05/2020", "Tinh": "Kon Tum", "Huyen": "Kon Pl\u00f4ng", "Xa": "Ngok Tem", "Kinh Do": "108.397", "Vi Do": "14.795"}
+{"Ngay": "14/05/2020", "Tinh": "Kon Tum", "Huyen": "Ng\u1ecdc H\u1ed3i", "Xa": "\u0110\u1eafk Kan", "Kinh Do": "107.6562", "Vi Do": "14.64206"}
+{"Ngay": "14/05/2020", "Tinh": "Gia Lai", "Huyen": "Kr\u00f4ng Pa", "Xa": "Ch\u01b0 Ng\u1ecdc", "Kinh Do": "108.81713", "Vi Do": "13.19557"}
+{"Ngay": "14/05/2020", "Tinh": "Gia Lai", "Huyen": "Kr\u00f4ng Pa", "Xa": "Ch\u01b0 Ng\u1ecdc", "Kinh Do": "108.78324", "Vi Do": "13.15206"}
+{"Ngay": "14/05/2020", "Tinh": "Gia Lai", "Huyen": "Kr\u00f4ng Pa", "Xa": "Ch\u01b0 Ng\u1ecdc", "Kinh Do": "108.82104", "Vi Do": "13.19602"}
+{"Ngay": "14/05/2020", "Tinh": "Gia Lai", "Huyen": "Kr\u00f4ng Pa", "Xa": "Ch\u01b0 Ng\u1ecdc", "Kinh Do": "108.818", "Vi Do": "13.189"}
+{"Ngay": "14/05/2020", "Tinh": "Gia Lai", "Huyen": "K\u00f4ng Chro", "Xa": "Ch\u01b0 Kr\u00eay", "Kinh Do": "108.41482", "Vi Do": "13.84656"}
+{"Ngay": "14/05/2020", "Tinh": "Gia Lai", "Huyen": "K\u00f4ng Chro", "Xa": "Ch\u01b0 Kr\u00eay", "Kinh Do": "108.41735", "Vi Do": "13.84576"}
+{"Ngay": "14/05/2020", "Tinh": "Gia Lai", "Huyen": "KBang", "Xa": "Krong", "Kinh Do": "108.45771", "Vi Do": "14.23584"}
+{"Ngay": "14/05/2020", "Tinh": "Gia Lai", "Huyen": "Ch\u01b0 Pr\u00f4ng", "Xa": "Ia P\u00fach", "Kinh Do": "107.70993", "Vi Do": "13.6651"}
+{"Ngay": "14/05/2020", "Tinh": "Gia Lai", "Huyen": "\u0110ak P\u01a1", "Xa": "An Th\u00e0nh", "Kinh Do": "108.52029", "Vi Do": "13.97473"}
+{"Ngay": "14/05/2020", "Tinh": "Gia Lai", "Huyen": "Ph\u00fa Thi\u1ec7n", "Xa": "Ch\u01b0 A Thai", "Kinh Do": "108.27939", "Vi Do": "13.57367"}
+{"Ngay": "14/05/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "S\u01a1n H\u00f2a", "Xa": "C\u00e0 L\u00fai", "Kinh Do": "108.90049", "Vi Do": "13.18814"}
+{"Ngay": "14/05/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "S\u01a1n H\u00f2a", "Xa": "Ea Ch\u00e0 Rang", "Kinh Do": "108.90771", "Vi Do": "13.08915"}
+{"Ngay": "14/05/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "S\u01a1n H\u00f2a", "Xa": "Ea Ch\u00e0 Rang", "Kinh Do": "108.84016", "Vi Do": "13.15852"}
+{"Ngay": "14/05/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "S\u01a1n H\u00f2a", "Xa": "Ea Ch\u00e0 Rang", "Kinh Do": "108.84639", "Vi Do": "13.10475"}
+{"Ngay": "14/05/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "S\u01a1n H\u00f2a", "Xa": "Ea Ch\u00e0 Rang", "Kinh Do": "108.84122", "Vi Do": "13.16087"}
+{"Ngay": "14/05/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "S\u01a1n H\u00f2a", "Xa": "Su\u1ed1i Trai", "Kinh Do": "108.84897", "Vi Do": "13.05564"}
+{"Ngay": "14/05/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "S\u01a1n H\u00f2a", "Xa": "Su\u1ed1i Trai", "Kinh Do": "108.85", "Vi Do": "13.053"}
+{"Ngay": "14/05/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "Ph\u00fa H\u00f2a", "Xa": "H\u00f2a Quang Nam", "Kinh Do": "109.15822", "Vi Do": "13.07743"}
+{"Ngay": "14/05/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "Ph\u00fa H\u00f2a", "Xa": "H\u00f2a Quang Nam", "Kinh Do": "109.15565", "Vi Do": "13.0753"}
+{"Ngay": "14/05/2020", "Tinh": "Ph\u00fa Y\u00ean", "Huyen": "Ph\u00fa H\u00f2a", "Xa": "H\u00f2a Quang Nam", "Kinh Do": "109.16125", "Vi Do": "13.07597"}
+{"Ngay": "14/05/2020", "Tinh": "Ki\u00ean Giang", "Huyen": "H\u00f2n \u0110\u1ea5t", "Xa": "Nam Th\u00e1i S\u01a1n", "Kinh Do": "104.99558", "Vi Do": "10.31541"}
+{"Ngay": "14/05/2020", "Tinh": "Ki\u00ean Giang", "Huyen": "H\u00f2n \u0110\u1ea5t", "Xa": "Nam Th\u00e1i S\u01a1n", "Kinh Do": "104.99936", "Vi Do": "10.31594"}
+{"Ngay": "14/05/2020", "Tinh": "Ki\u00ean Giang", "Huyen": "H\u00f2n \u0110\u1ea5t", "Xa": "Nam Th\u00e1i S\u01a1n", "Kinh Do": "104.909", "Vi Do": "10.27807"}
+{"Ngay": "14/05/2020", "Tinh": "Ki\u00ean Giang", "Huyen": "H\u00f2n \u0110\u1ea5t", "Xa": "Nam Th\u00e1i S\u01a1n", "Kinh Do": "104.90155", "Vi Do": "10.27704"}
+{"Ngay": "14/05/2020", "Tinh": "Ki\u00ean Giang", "Huyen": "H\u00f2n \u0110\u1ea5t", "Xa": "Nam Th\u00e1i S\u01a1n", "Kinh Do": "104.99847", "Vi Do": "10.31736"}
+{"Ngay": "14/05/2020", "Tinh": "Ki\u00ean Giang", "Huyen": "H\u00f2n \u0110\u1ea5t", "Xa": "Nam Th\u00e1i S\u01a1n", "Kinh Do": "105.00227", "Vi Do": "10.31787"}
+{"Ngay": "14/05/2020", "Tinh": "Ki\u00ean Giang", "Huyen": "H\u00f2n \u0110\u1ea5t", "Xa": "Nam Th\u00e1i S\u01a1n", "Kinh Do": "104.90527", "Vi Do": "10.27756"}
+{"Ngay": "14/05/2020", "Tinh": "Ki\u00ean Giang", "Huyen": "T\u00e2n Hi\u1ec7p", "Xa": "TT. T\u00e2n Hi\u1ec7p", "Kinh Do": "105.28819", "Vi Do": "10.09009"}
+{"Ngay": "14/05/2020", "Tinh": "Ki\u00ean Giang", "Huyen": "An Bi\u00ean", "Xa": "\u0110\u00f4ng Y\u00ean", "Kinh Do": "105.089", "Vi Do": "9.706"}
+{"Ngay": "14/05/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "Nam \u0110\u00f4ng", "Xa": "Th\u01b0\u1ee3ng Long", "Kinh Do": "107.64449", "Vi Do": "16.09585"}
+{"Ngay": "14/05/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "Nam \u0110\u00f4ng", "Xa": "Th\u01b0\u1ee3ng Long", "Kinh Do": "107.64619", "Vi Do": "16.09355"}
+{"Ngay": "14/05/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "Nam \u0110\u00f4ng", "Xa": "Th\u01b0\u1ee3ng Long", "Kinh Do": "107.644", "Vi Do": "16.096"}
+{"Ngay": "14/05/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "Nam \u0110\u00f4ng", "Xa": "Th\u01b0\u1ee3ng Nh\u1eadt", "Kinh Do": "107.705", "Vi Do": "16.11"}
+{"Ngay": "14/05/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "Nam \u0110\u00f4ng", "Xa": "Th\u01b0\u1ee3ng Nh\u1eadt", "Kinh Do": "107.663", "Vi Do": "16.088"}
+{"Ngay": "14/05/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "Phong \u0110i\u1ec1n", "Xa": "Phong An", "Kinh Do": "107.3709", "Vi Do": "16.53831"}
+{"Ngay": "14/05/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "H\u01b0\u01a1ng Tr\u00e0", "Xa": "H\u01b0\u01a1ng V\u00e2n", "Kinh Do": "107.46469", "Vi Do": "16.503"}
+{"Ngay": "14/05/2020", "Tinh": "Th\u1eeba Thi\u00ean Hu\u1ebf", "Huyen": "Ph\u00fa L\u1ed9c", "Xa": "TT. L\u0103ng C\u00f4", "Kinh Do": "108.069", "Vi Do": "16.251"}
+{"Ngay": "14/05/2020", "Tinh": "L\u00e2m \u0110\u1ed3ng", "Huyen": "L\u1ea1c D\u01b0\u01a1ng", "Xa": "\u0110\u1ea1 Chais", "Kinh Do": "108.62769", "Vi Do": "12.13466"}
+{"Ngay": "14/05/2020", "Tinh": "L\u00e2m \u0110\u1ed3ng", "Huyen": "L\u1ea1c D\u01b0\u01a1ng", "Xa": "\u0110\u1ea1 Chais", "Kinh Do": "108.66548", "Vi Do": "12.27124"}
+{"Ngay": "14/05/2020", "Tinh": "L\u00e2m \u0110\u1ed3ng", "Huyen": "L\u1ea1c D\u01b0\u01a1ng", "Xa": "\u0110\u1ea1 Chais", "Kinh Do": "108.62534", "Vi Do": "12.28113"}
+{"Ngay": "14/05/2020", "Tinh": "L\u00e2m \u0110\u1ed3ng", "Huyen": "L\u1ea1c D\u01b0\u01a1ng", "Xa": "\u0110\u1ea1 Chais", "Kinh Do": "108.66614", "Vi Do": "12.27562"}
+{"Ngay": "14/05/2020", "Tinh": "L\u00e2m \u0110\u1ed3ng", "Huyen": "L\u1ea1c D\u01b0\u01a1ng", "Xa": "\u0110\u01b0ng KN\u1edb", "Kinh Do": "108.47739", "Vi Do": "12.19888"}
+{"Ngay": "14/05/2020", "Tinh": "L\u00e2m \u0110\u1ed3ng", "Huyen": "\u0110am R\u00f4ng", "Xa": "Li\u00eang S'Roin", "Kinh Do": "108.06432", "Vi Do": "12.05474"}
+{"Ngay": "14/05/2020", "Tinh": "L\u00e2m \u0110\u1ed3ng", "Huyen": "\u0110\u1ee9c Tr\u1ecdng", "Xa": "Hi\u1ec7p An", "Kinh Do": "108.43", "Vi Do": "11.794"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk N\u00f4ng", "Huyen": "TX. Gia Ngh\u0129a", "Xa": "Qu\u1ea3ng Th\u00e0nh", "Kinh Do": "107.75538", "Vi Do": "12.11807"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk N\u00f4ng", "Huyen": "TX. Gia Ngh\u0129a", "Xa": "Qu\u1ea3ng Th\u00e0nh", "Kinh Do": "107.754", "Vi Do": "12.115"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk N\u00f4ng", "Huyen": "\u0110\u1eafk Glong", "Xa": "\u0110\u1eafk Plao", "Kinh Do": "107.91976", "Vi Do": "11.95176"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk N\u00f4ng", "Huyen": "C\u01b0 J\u00fat", "Xa": "\u0110\u1eafk Wil", "Kinh Do": "107.74785", "Vi Do": "12.735"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1eafk N\u00f4ng", "Huyen": "KR\u00f4ng N\u00f4", "Xa": "\u0110\u1ee9c Xuy\u00ean", "Kinh Do": "107.8891", "Vi Do": "12.24955"}
+{"Ngay": "14/05/2020", "Tinh": "Ninh Thu\u1eadn", "Huyen": "B\u1eafc \u00c1i", "Xa": "Ph\u01b0\u1edbc H\u00f2a", "Kinh Do": "108.70519", "Vi Do": "11.95512"}
+{"Ngay": "14/05/2020", "Tinh": "Ninh Thu\u1eadn", "Huyen": "B\u1eafc \u00c1i", "Xa": "Ph\u01b0\u1edbc H\u00f2a", "Kinh Do": "108.70577", "Vi Do": "11.95403"}
+{"Ngay": "14/05/2020", "Tinh": "Ninh Thu\u1eadn", "Huyen": "B\u1eafc \u00c1i", "Xa": "Ph\u01b0\u1edbc T\u00e2n", "Kinh Do": "108.857", "Vi Do": "11.941"}
+{"Ngay": "14/05/2020", "Tinh": "Ninh Thu\u1eadn", "Huyen": "B\u1eafc \u00c1i", "Xa": "Ph\u01b0\u1edbc Th\u00e0nh", "Kinh Do": "108.994", "Vi Do": "11.902"}
+{"Ngay": "14/05/2020", "Tinh": "Ninh Thu\u1eadn", "Huyen": "B\u1eafc \u00c1i", "Xa": "Ph\u01b0\u1edbc Th\u00e0nh", "Kinh Do": "109.003", "Vi Do": "11.901"}
+{"Ngay": "14/05/2020", "Tinh": "B\u00ecnh Thu\u1eadn", "Huyen": "H\u00e0m T\u00e2n", "Xa": "S\u01a1n M\u1ef9", "Kinh Do": "107.66705", "Vi Do": "10.68287"}
+{"Ngay": "14/05/2020", "Tinh": "B\u00ecnh Thu\u1eadn", "Huyen": "H\u00e0m T\u00e2n", "Xa": "Th\u1eafng H\u1ea3i", "Kinh Do": "107.57445", "Vi Do": "10.61314"}
+{"Ngay": "14/05/2020", "Tinh": "B\u00ecnh Thu\u1eadn", "Huyen": "H\u00e0m T\u00e2n", "Xa": "Th\u1eafng H\u1ea3i", "Kinh Do": "107.573", "Vi Do": "10.608"}
+{"Ngay": "14/05/2020", "Tinh": "B\u00ecnh Thu\u1eadn", "Huyen": "H\u00e0m T\u00e2n", "Xa": "TT. T\u00e2n Ngh\u0129a", "Kinh Do": "107.73589", "Vi Do": "10.83651"}
+{"Ngay": "14/05/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "Ph\u00f9 C\u00e1t", "Xa": "C\u00e1t T\u01b0\u1eddng", "Kinh Do": "109.1254", "Vi Do": "14.01216"}
+{"Ngay": "14/05/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "Ph\u00f9 C\u00e1t", "Xa": "C\u00e1t T\u01b0\u1eddng", "Kinh Do": "109.12508", "Vi Do": "14.00628"}
+{"Ngay": "14/05/2020", "Tinh": "B\u00ecnh \u0110\u1ecbnh", "Huyen": "An L\u00e3o", "Xa": "An H\u00f2a", "Kinh Do": "108.935", "Vi Do": "14.577"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Nai", "Huyen": "C\u1ea9m M\u1ef9", "Xa": "S\u00f4ng Nh\u1ea1n", "Kinh Do": "107.093", "Vi Do": "10.82"}
+{"Ngay": "14/05/2020", "Tinh": "\u0110\u1ed3ng Nai", "Huyen": "Long Th\u00e0nh", "Xa": "Long An", "Kinh Do": "107.02", "Vi Do": "10.748"}
+{"Ngay": "14/05/2020", "Tinh": "An Giang", "Huyen": "TX. T\u00e2n Ch\u00e2u", "Xa": "P. Long H\u01b0ng", "Kinh Do": "105.234", "Vi Do": "10.794"}
+{"Ngay": "14/05/2020", "Tinh": "An Giang", "Huyen": "Ch\u00e2u Th\u00e0nh", "Xa": "B\u00ecnh H\u00f2a", "Kinh Do": "105.338", "Vi Do": "10.45"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Ninh", "Huyen": "Ba Ch\u1ebd", "Xa": "Thanh L\u00e2m", "Kinh Do": "107.18249", "Vi Do": "21.32845"}
+{"Ngay": "14/05/2020", "Tinh": "Qu\u1ea3ng Ninh", "Huyen": "Ba Ch\u1ebd", "Xa": "Thanh S\u01a1n", "Kinh Do": "107.22428", "Vi Do": "21.35472"}
+{"Ngay": "14/05/2020", "Tinh": "C\u1ea7n Th\u01a1", "Huyen": "C\u1edd \u0110\u1ecf", "Xa": "Trung An", "Kinh Do": "105.51352", "Vi Do": "10.22352"}
+{"Ngay": "14/05/2020", "Tinh": "H\u00e0 Giang", "Huyen": "V\u1ecb Xuy\u00ean", "Xa": "Thu\u1eadn Ho\u00e0", "Kinh Do": "105.00107", "Vi Do": "22.92046"}
+{"Ngay": "14/05/2020", "Tinh": "B\u1eafc K\u1ea1n", "Huyen": "Ng\u00e2n S\u01a1n", "Xa": "TT. N\u00e0 Ph\u1eb7c", "Kinh Do": "105.86339", "Vi Do": "22.35625"}
+{"Ngay": "14/05/2020", "Tinh": "B\u00e0 R\u1ecba-V\u0169ng T\u00e0u", "Huyen": "T\u00e2n Th\u00e0nh", "Xa": "TT. Ph\u00fa M\u1ef9", "Kinh Do": "107.0387", "Vi Do": "10.57304"}
+{"Ngay": "14/05/2020", "Tinh": "Long An", "Huyen": "T\u00e2n Th\u1ea1nh", "Xa": "Nh\u01a1n Ninh", "Kinh Do": "105.988", "Vi Do": "10.552"}
+{"Ngay": "14/05/2020", "Tinh": "H\u00e0 N\u1ed9i", "Huyen": "Th\u1ea1ch Th\u1ea5t", "Xa": "H\u1eefu B\u1eb1ng", "Kinh Do": "105.611", "Vi Do": "21.022"}
