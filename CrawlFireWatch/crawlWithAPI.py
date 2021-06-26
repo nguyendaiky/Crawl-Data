@@ -1,6 +1,7 @@
 from datetime import datetime
 import datetime
 import pandas as pd
+from pandas.core.indexes.base import Index
 import requests
 import json
 
@@ -72,9 +73,18 @@ def convert_to_csv(path):
     data_json_string = b'[' + b','.join(data) + b']'
     # data_df = pd.read_json(data_json_string)
     data_df = pd.json_normalize(json.loads(data_json_string))
-    print(data_df.head(10))
-    data_df.to_csv('GiaLai.csv',index=None,encoding='utf-8-sig')
+    # print(data_df.head(10))
+    data_df.to_csv('{path}.csv'.format(path=path[:-4]),index=None,encoding='utf-8-sig')
+
+def convert_to_csv2(path):
+    with open(path,'rb') as f:
+        lines = f.readlines()
+    for line in lines:
+        data = line.rstrip()
+        record = pd.json_normalize(json.loads(data))
+        with open('{path}.csv'.format(path=path[:-4]), encoding='utf-8-sig') as f:
+            f.write(record)
 
 if __name__ == "__main__":
     # take_data()
-    convert_to_csv('Data\GiaLai.txt')
+    convert_to_csv2('Data/txt/QuangNgai.txt')
