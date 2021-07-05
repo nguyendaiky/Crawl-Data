@@ -1,0 +1,942 @@
+{"Ngay": "29/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.90415, "Vi Do": 16.04085}
+{"Ngay": "27/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Ng\u0169 H\u00e0nh S\u01a1n", "Xa": "P. H\u00f2a H\u1ea3i", "Kinh Do": 108.25898, "Vi Do": 15.98318}
+{"Ngay": "27/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.01477, "Vi Do": 16.03276}
+{"Ngay": "20/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.03996, "Vi Do": 16.07439}
+{"Ngay": "20/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04047, "Vi Do": 16.07096}
+{"Ngay": "20/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 107.96804, "Vi Do": 15.95252}
+{"Ngay": "20/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 107.97189, "Vi Do": 15.95306}
+{"Ngay": "20/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 107.96753, "Vi Do": 15.95593}
+{"Ngay": "20/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 107.97625, "Vi Do": 15.948664}
+{"Ngay": "19/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.06402, "Vi Do": 16.05682}
+{"Ngay": "19/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.0651, "Vi Do": 16.056462}
+{"Ngay": "09/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.06236, "Vi Do": 15.96539}
+{"Ngay": "09/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05807, "Vi Do": 15.9648}
+{"Ngay": "03/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07913, "Vi Do": 15.957647}
+{"Ngay": "03/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.0252, "Vi Do": 16.04022}
+{"Ngay": "03/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.02155, "Vi Do": 16.03525}
+{"Ngay": "03/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.01834, "Vi Do": 16.025021}
+{"Ngay": "03/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.07232, "Vi Do": 15.96153}
+{"Ngay": "02/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.07085, "Vi Do": 16.03728}
+{"Ngay": "02/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.07913, "Vi Do": 16.029513}
+{"Ngay": "02/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04172, "Vi Do": 16.074428}
+{"Ngay": "01/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.09784, "Vi Do": 15.946418}
+{"Ngay": "01/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.07543, "Vi Do": 16.04525}
+{"Ngay": "01/06/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.07913, "Vi Do": 16.038496}
+{"Ngay": "14/05/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05258, "Vi Do": 16.02987}
+{"Ngay": "08/05/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.03007, "Vi Do": 16.06621}
+{"Ngay": "05/05/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.08848, "Vi Do": 16.011546}
+{"Ngay": "05/05/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.06043, "Vi Do": 15.998071}
+{"Ngay": "04/05/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12185, "Vi Do": 16.02734}
+{"Ngay": "03/05/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.05331, "Vi Do": 16.11929}
+{"Ngay": "03/05/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.05331, "Vi Do": 16.11929}
+{"Ngay": "03/05/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.05331, "Vi Do": 16.11929}
+{"Ngay": "03/05/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.05331, "Vi Do": 16.11929}
+{"Ngay": "02/05/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Ng\u0169 H\u00e0nh S\u01a1n", "Xa": "P. H\u00f2a Qu\u00fd", "Kinh Do": 108.22397, "Vi Do": 15.96327}
+{"Ngay": "02/05/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Ng\u0169 H\u00e0nh S\u01a1n", "Xa": "P. H\u00f2a Qu\u00fd", "Kinh Do": 108.22397, "Vi Do": 15.96327}
+{"Ngay": "02/05/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Ng\u0169 H\u00e0nh S\u01a1n", "Xa": "P. H\u00f2a Qu\u00fd", "Kinh Do": 108.22397, "Vi Do": 15.96327}
+{"Ngay": "02/05/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Ng\u0169 H\u00e0nh S\u01a1n", "Xa": "P. H\u00f2a Qu\u00fd", "Kinh Do": 108.22397, "Vi Do": 15.96327}
+{"Ngay": "02/05/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Ng\u0169 H\u00e0nh S\u01a1n", "Xa": "P. H\u00f2a Qu\u00fd", "Kinh Do": 108.22397, "Vi Do": 15.96327}
+{"Ngay": "02/05/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Ng\u0169 H\u00e0nh S\u01a1n", "Xa": "P. H\u00f2a Qu\u00fd", "Kinh Do": 108.22397, "Vi Do": 15.96327}
+{"Ngay": "02/05/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Ng\u0169 H\u00e0nh S\u01a1n", "Xa": "P. H\u00f2a Qu\u00fd", "Kinh Do": 108.22877, "Vi Do": 15.957647}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.11452, "Vi Do": 16.13092}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.11452, "Vi Do": 16.13092}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.11452, "Vi Do": 16.13092}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.11452, "Vi Do": 16.13092}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.11452, "Vi Do": 16.13092}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.11452, "Vi Do": 16.13092}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.11452, "Vi Do": 16.13092}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.11452, "Vi Do": 16.13092}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.11452, "Vi Do": 16.13092}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p Nam", "Kinh Do": 108.13534, "Vi Do": 16.0888}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p Nam", "Kinh Do": 108.13534, "Vi Do": 16.0888}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p Nam", "Kinh Do": 108.13534, "Vi Do": 16.0888}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p Nam", "Kinh Do": 108.13534, "Vi Do": 16.0888}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p Nam", "Kinh Do": 108.13534, "Vi Do": 16.0888}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p Nam", "Kinh Do": 108.13534, "Vi Do": 16.0888}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p Nam", "Kinh Do": 108.13534, "Vi Do": 16.0888}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p Nam", "Kinh Do": 108.13534, "Vi Do": 16.0888}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p Nam", "Kinh Do": 108.13534, "Vi Do": 16.0888}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18015, "Vi Do": 16.01001}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.17871, "Vi Do": 16.00772}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.17871, "Vi Do": 16.00772}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18015, "Vi Do": 16.01001}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18015, "Vi Do": 16.01001}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.17871, "Vi Do": 16.00772}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18015, "Vi Do": 16.01001}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.17871, "Vi Do": 16.00772}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18015, "Vi Do": 16.01001}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.17871, "Vi Do": 16.00772}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18015, "Vi Do": 16.01001}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.17871, "Vi Do": 16.00772}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18015, "Vi Do": 16.01001}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.17871, "Vi Do": 16.00772}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.17871, "Vi Do": 16.00772}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18015, "Vi Do": 16.01001}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.17871, "Vi Do": 16.00772}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18015, "Vi Do": 16.01001}
+{"Ngay": "29/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ti\u1ebfn", "Kinh Do": 108.18201, "Vi Do": 15.99358}
+{"Ngay": "27/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.01133, "Vi Do": 16.056462}
+{"Ngay": "20/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.98755, "Vi Do": 16.12369}
+{"Ngay": "20/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.98755, "Vi Do": 16.12369}
+{"Ngay": "20/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.98755, "Vi Do": 16.12369}
+{"Ngay": "20/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.98755, "Vi Do": 16.12369}
+{"Ngay": "20/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.98755, "Vi Do": 16.12369}
+{"Ngay": "20/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.98755, "Vi Do": 16.12369}
+{"Ngay": "20/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.98755, "Vi Do": 16.12369}
+{"Ngay": "20/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.98755, "Vi Do": 16.12369}
+{"Ngay": "19/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.07818, "Vi Do": 16.12598}
+{"Ngay": "19/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.07818, "Vi Do": 16.12598}
+{"Ngay": "19/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.07818, "Vi Do": 16.12598}
+{"Ngay": "19/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.07818, "Vi Do": 16.12598}
+{"Ngay": "19/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.07818, "Vi Do": 16.12598}
+{"Ngay": "19/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.07818, "Vi Do": 16.12598}
+{"Ngay": "19/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.07818, "Vi Do": 16.12598}
+{"Ngay": "14/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.94938, "Vi Do": 16.12991}
+{"Ngay": "14/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.94938, "Vi Do": 16.12991}
+{"Ngay": "14/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.94938, "Vi Do": 16.12991}
+{"Ngay": "14/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.94938, "Vi Do": 16.12991}
+{"Ngay": "13/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07903, "Vi Do": 16.12889}
+{"Ngay": "13/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07903, "Vi Do": 16.12889}
+{"Ngay": "13/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07903, "Vi Do": 16.12889}
+{"Ngay": "13/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07903, "Vi Do": 16.12889}
+{"Ngay": "13/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07903, "Vi Do": 16.12889}
+{"Ngay": "13/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07903, "Vi Do": 16.12889}
+{"Ngay": "13/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07903, "Vi Do": 16.12889}
+{"Ngay": "13/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07903, "Vi Do": 16.12889}
+{"Ngay": "13/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07903, "Vi Do": 16.12889}
+{"Ngay": "12/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.086, "Vi Do": 16.12}
+{"Ngay": "12/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.086, "Vi Do": 16.12}
+{"Ngay": "12/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.086, "Vi Do": 16.12}
+{"Ngay": "12/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.086, "Vi Do": 16.12}
+{"Ngay": "12/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.086, "Vi Do": 16.12}
+{"Ngay": "12/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.086, "Vi Do": 16.12}
+{"Ngay": "12/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.086, "Vi Do": 16.12}
+{"Ngay": "08/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04115, "Vi Do": 16.06026}
+{"Ngay": "07/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.082, "Vi Do": 15.97}
+{"Ngay": "06/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.02252, "Vi Do": 16.06166}
+{"Ngay": "04/04/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.10251, "Vi Do": 16.002563}
+{"Ngay": "27/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.08537, "Vi Do": 16.014541}
+{"Ngay": "27/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05575, "Vi Do": 16.056462}
+{"Ngay": "27/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.06043, "Vi Do": 16.065445}
+{"Ngay": "27/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.0464, "Vi Do": 15.989088}
+{"Ngay": "20/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.111, "Vi Do": 16.125}
+{"Ngay": "20/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.111, "Vi Do": 16.125}
+{"Ngay": "20/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. S\u01a1n Tr\u00e0", "Xa": "P. Th\u1ecd Quang", "Kinh Do": 108.28489, "Vi Do": 16.105869}
+{"Ngay": "19/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08036, "Vi Do": 16.13082}
+{"Ngay": "19/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08036, "Vi Do": 16.13082}
+{"Ngay": "19/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08036, "Vi Do": 16.13082}
+{"Ngay": "19/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08036, "Vi Do": 16.13082}
+{"Ngay": "19/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08036, "Vi Do": 16.13082}
+{"Ngay": "19/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08036, "Vi Do": 16.13082}
+{"Ngay": "19/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08848, "Vi Do": 16.128327}
+{"Ngay": "19/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.02302, "Vi Do": 15.96663}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.03944, "Vi Do": 16.12762}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.04, "Vi Do": 16.127}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.03, "Vi Do": 16.126}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.04, "Vi Do": 16.127}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.03, "Vi Do": 16.126}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.03944, "Vi Do": 16.12762}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.03944, "Vi Do": 16.12762}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.04, "Vi Do": 16.127}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.03, "Vi Do": 16.126}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.03, "Vi Do": 16.126}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.04, "Vi Do": 16.127}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.03944, "Vi Do": 16.12762}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.04, "Vi Do": 16.127}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.03, "Vi Do": 16.126}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.03944, "Vi Do": 16.12762}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.03, "Vi Do": 16.126}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.04, "Vi Do": 16.127}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.04, "Vi Do": 16.127}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.03, "Vi Do": 16.126}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.03944, "Vi Do": 16.12762}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.03944, "Vi Do": 16.12762}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.03, "Vi Do": 16.126}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.04, "Vi Do": 16.127}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.09316, "Vi Do": 16.119344}
+{"Ngay": "18/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.11654, "Vi Do": 16.011546}
+{"Ngay": "15/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.00899, "Vi Do": 16.13731}
+{"Ngay": "09/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.089, "Vi Do": 16.127}
+{"Ngay": "09/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.089, "Vi Do": 16.127}
+{"Ngay": "09/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.089, "Vi Do": 16.127}
+{"Ngay": "09/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.089, "Vi Do": 16.127}
+{"Ngay": "09/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.089, "Vi Do": 16.127}
+{"Ngay": "09/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.089, "Vi Do": 16.127}
+{"Ngay": "09/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.02362, "Vi Do": 16.05709}
+{"Ngay": "09/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.02362, "Vi Do": 16.05709}
+{"Ngay": "09/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.02362, "Vi Do": 16.05709}
+{"Ngay": "09/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.02362, "Vi Do": 16.05709}
+{"Ngay": "09/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.02362, "Vi Do": 16.05709}
+{"Ngay": "09/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.02362, "Vi Do": 16.05709}
+{"Ngay": "09/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.02362, "Vi Do": 16.05709}
+{"Ngay": "09/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.02362, "Vi Do": 16.05709}
+{"Ngay": "09/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.02362, "Vi Do": 16.05709}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.044, "Vi Do": 16.019}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.056, "Vi Do": 16.021}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05247, "Vi Do": 16.02726}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05, "Vi Do": 16.026}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.044, "Vi Do": 16.019}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05247, "Vi Do": 16.02726}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.056, "Vi Do": 16.021}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05, "Vi Do": 16.026}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05247, "Vi Do": 16.02726}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05247, "Vi Do": 16.02726}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.056, "Vi Do": 16.021}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05, "Vi Do": 16.026}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05247, "Vi Do": 16.02726}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.044, "Vi Do": 16.019}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05247, "Vi Do": 16.02726}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.044, "Vi Do": 16.019}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.056, "Vi Do": 16.021}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05, "Vi Do": 16.026}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.044, "Vi Do": 16.019}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.056, "Vi Do": 16.021}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05, "Vi Do": 16.026}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05247, "Vi Do": 16.02726}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05247, "Vi Do": 16.02726}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.044, "Vi Do": 16.019}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05247, "Vi Do": 16.02726}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05, "Vi Do": 16.026}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.056, "Vi Do": 16.021}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05, "Vi Do": 16.026}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.044, "Vi Do": 16.019}
+{"Ngay": "06/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.056, "Vi Do": 16.021}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09412, "Vi Do": 16.01395}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09344, "Vi Do": 16.01893}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09412, "Vi Do": 16.01395}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09344, "Vi Do": 16.01893}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09412, "Vi Do": 16.01395}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09344, "Vi Do": 16.01893}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09, "Vi Do": 16.012}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09344, "Vi Do": 16.01893}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09412, "Vi Do": 16.01395}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09344, "Vi Do": 16.01893}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09412, "Vi Do": 16.01395}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09, "Vi Do": 16.012}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09344, "Vi Do": 16.01893}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09412, "Vi Do": 16.01395}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09344, "Vi Do": 16.01893}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09412, "Vi Do": 16.01395}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09412, "Vi Do": 16.01395}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09344, "Vi Do": 16.01893}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09, "Vi Do": 16.012}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09344, "Vi Do": 16.01893}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09412, "Vi Do": 16.01395}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09, "Vi Do": 16.012}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09412, "Vi Do": 16.01395}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09344, "Vi Do": 16.01893}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09412, "Vi Do": 16.01395}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09344, "Vi Do": 16.01893}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09412, "Vi Do": 16.01395}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09, "Vi Do": 16.012}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09344, "Vi Do": 16.01893}
+{"Ngay": "04/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09, "Vi Do": 16.012}
+{"Ngay": "03/03/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08848, "Vi Do": 16.069937}
+{"Ngay": "28/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07899, "Vi Do": 16.13141}
+{"Ngay": "28/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07899, "Vi Do": 16.13141}
+{"Ngay": "28/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07899, "Vi Do": 16.13141}
+{"Ngay": "28/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07899, "Vi Do": 16.13141}
+{"Ngay": "28/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07899, "Vi Do": 16.13141}
+{"Ngay": "28/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07899, "Vi Do": 16.13141}
+{"Ngay": "28/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07899, "Vi Do": 16.13141}
+{"Ngay": "28/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07899, "Vi Do": 16.13141}
+{"Ngay": "28/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07899, "Vi Do": 16.13141}
+{"Ngay": "28/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07899, "Vi Do": 16.13141}
+{"Ngay": "28/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 107.98561, "Vi Do": 15.99358}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.873, "Vi Do": 16.14554}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.87141, "Vi Do": 16.14984}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.9226, "Vi Do": 16.13372}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.86903, "Vi Do": 16.14505}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.92165, "Vi Do": 16.13811}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.9226, "Vi Do": 16.13372}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.92165, "Vi Do": 16.13811}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.87141, "Vi Do": 16.14984}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.86903, "Vi Do": 16.14505}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.915, "Vi Do": 16.136}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.873, "Vi Do": 16.14554}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.863, "Vi Do": 16.139}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.9226, "Vi Do": 16.13372}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.92165, "Vi Do": 16.13811}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.86903, "Vi Do": 16.14505}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.873, "Vi Do": 16.14554}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.87141, "Vi Do": 16.14984}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.87141, "Vi Do": 16.14984}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.9226, "Vi Do": 16.13372}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.86903, "Vi Do": 16.14505}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.92165, "Vi Do": 16.13811}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.873, "Vi Do": 16.14554}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.86903, "Vi Do": 16.14505}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.915, "Vi Do": 16.136}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.873, "Vi Do": 16.14554}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.9226, "Vi Do": 16.13372}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.863, "Vi Do": 16.139}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.92165, "Vi Do": 16.13811}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.87141, "Vi Do": 16.14984}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.86903, "Vi Do": 16.14505}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.9226, "Vi Do": 16.13372}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.873, "Vi Do": 16.14554}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.87141, "Vi Do": 16.14984}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.92165, "Vi Do": 16.13811}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.873, "Vi Do": 16.14554}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.92165, "Vi Do": 16.13811}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.9226, "Vi Do": 16.13372}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.87141, "Vi Do": 16.14984}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.92165, "Vi Do": 16.13811}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.86903, "Vi Do": 16.14505}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.87141, "Vi Do": 16.14984}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.9226, "Vi Do": 16.13372}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.86903, "Vi Do": 16.14505}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.873, "Vi Do": 16.14554}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.915, "Vi Do": 16.136}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.87337, "Vi Do": 16.13731}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.863, "Vi Do": 16.139}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.91702, "Vi Do": 16.131322}
+{"Ngay": "27/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.8687, "Vi Do": 16.132819}
+{"Ngay": "26/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.099, "Vi Do": 15.996}
+{"Ngay": "26/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.099, "Vi Do": 15.996}
+{"Ngay": "26/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.099, "Vi Do": 15.996}
+{"Ngay": "26/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.099, "Vi Do": 15.996}
+{"Ngay": "26/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.099, "Vi Do": 15.996}
+{"Ngay": "26/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.099, "Vi Do": 15.996}
+{"Ngay": "25/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.111, "Vi Do": 16.129}
+{"Ngay": "25/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.111, "Vi Do": 16.129}
+{"Ngay": "25/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.111, "Vi Do": 16.129}
+{"Ngay": "25/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.111, "Vi Do": 16.129}
+{"Ngay": "25/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.111, "Vi Do": 16.129}
+{"Ngay": "25/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.11342, "Vi Do": 16.122338}
+{"Ngay": "23/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.09784, "Vi Do": 16.128327}
+{"Ngay": "23/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.13617, "Vi Do": 16.08174}
+{"Ngay": "23/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.13617, "Vi Do": 16.08174}
+{"Ngay": "23/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.13617, "Vi Do": 16.08174}
+{"Ngay": "23/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.13617, "Vi Do": 16.08174}
+{"Ngay": "23/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.13617, "Vi Do": 16.08174}
+{"Ngay": "23/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.13617, "Vi Do": 16.08174}
+{"Ngay": "23/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.13617, "Vi Do": 16.08174}
+{"Ngay": "23/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.13617, "Vi Do": 16.08174}
+{"Ngay": "23/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09513, "Vi Do": 16.06202}
+{"Ngay": "23/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09513, "Vi Do": 16.06202}
+{"Ngay": "23/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09513, "Vi Do": 16.06202}
+{"Ngay": "23/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09513, "Vi Do": 16.06202}
+{"Ngay": "23/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09513, "Vi Do": 16.06202}
+{"Ngay": "23/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09513, "Vi Do": 16.06202}
+{"Ngay": "23/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09513, "Vi Do": 16.06202}
+{"Ngay": "23/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09513, "Vi Do": 16.06202}
+{"Ngay": "23/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09513, "Vi Do": 16.06202}
+{"Ngay": "19/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07446, "Vi Do": 15.957647}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.05652, "Vi Do": 16.09577}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.05652, "Vi Do": 16.09577}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.055, "Vi Do": 16.096}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.05652, "Vi Do": 16.09577}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.064, "Vi Do": 16.097}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.05652, "Vi Do": 16.09577}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.055, "Vi Do": 16.096}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.064, "Vi Do": 16.097}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.05652, "Vi Do": 16.09577}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.05652, "Vi Do": 16.09577}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.055, "Vi Do": 16.096}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.064, "Vi Do": 16.097}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.05652, "Vi Do": 16.09577}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.05652, "Vi Do": 16.09577}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.055, "Vi Do": 16.096}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.064, "Vi Do": 16.097}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.055, "Vi Do": 16.096}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.064, "Vi Do": 16.097}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06043, "Vi Do": 16.092395}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09, "Vi Do": 16.013}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09, "Vi Do": 16.013}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09, "Vi Do": 16.013}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09, "Vi Do": 16.013}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09, "Vi Do": 16.013}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.09, "Vi Do": 16.013}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.06978, "Vi Do": 15.984597}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.06602, "Vi Do": 15.99026}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.06602, "Vi Do": 15.99026}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.06602, "Vi Do": 15.99026}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.068, "Vi Do": 15.988}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.06602, "Vi Do": 15.99026}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.068, "Vi Do": 15.988}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.06602, "Vi Do": 15.99026}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.06602, "Vi Do": 15.99026}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.06602, "Vi Do": 15.99026}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.068, "Vi Do": 15.988}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.06602, "Vi Do": 15.99026}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.068, "Vi Do": 15.988}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.068, "Vi Do": 15.988}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12809, "Vi Do": 16.06351}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12766, "Vi Do": 16.06328}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12766, "Vi Do": 16.06328}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12766, "Vi Do": 16.06328}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12809, "Vi Do": 16.06351}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12766, "Vi Do": 16.06328}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12766, "Vi Do": 16.06328}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12809, "Vi Do": 16.06351}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12766, "Vi Do": 16.06328}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12809, "Vi Do": 16.06351}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12766, "Vi Do": 16.06328}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12809, "Vi Do": 16.06351}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12809, "Vi Do": 16.06351}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12809, "Vi Do": 16.06351}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12766, "Vi Do": 16.06328}
+{"Ngay": "16/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12809, "Vi Do": 16.06351}
+{"Ngay": "15/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.06505, "Vi Do": 15.99044}
+{"Ngay": "15/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.07127, "Vi Do": 15.99104}
+{"Ngay": "15/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.06505, "Vi Do": 15.99044}
+{"Ngay": "15/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.07127, "Vi Do": 15.99104}
+{"Ngay": "15/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.07127, "Vi Do": 15.99104}
+{"Ngay": "15/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.06505, "Vi Do": 15.99044}
+{"Ngay": "15/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.06505, "Vi Do": 15.99044}
+{"Ngay": "15/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.07127, "Vi Do": 15.99104}
+{"Ngay": "15/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.06505, "Vi Do": 15.99044}
+{"Ngay": "15/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.07127, "Vi Do": 15.99104}
+{"Ngay": "15/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.07127, "Vi Do": 15.99104}
+{"Ngay": "15/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.06505, "Vi Do": 15.99044}
+{"Ngay": "15/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.06505, "Vi Do": 15.99044}
+{"Ngay": "15/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.07127, "Vi Do": 15.99104}
+{"Ngay": "15/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.07446, "Vi Do": 15.984597}
+{"Ngay": "14/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.97625, "Vi Do": 16.13731}
+{"Ngay": "14/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05107, "Vi Do": 16.056462}
+{"Ngay": "11/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04124, "Vi Do": 16.06353}
+{"Ngay": "11/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04124, "Vi Do": 16.06353}
+{"Ngay": "11/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04124, "Vi Do": 16.06353}
+{"Ngay": "11/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04124, "Vi Do": 16.06353}
+{"Ngay": "11/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04124, "Vi Do": 16.06353}
+{"Ngay": "11/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04124, "Vi Do": 16.06353}
+{"Ngay": "11/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04124, "Vi Do": 16.06353}
+{"Ngay": "11/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04124, "Vi Do": 16.06353}
+{"Ngay": "11/02/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04124, "Vi Do": 16.06353}
+{"Ngay": "25/01/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.11854, "Vi Do": 15.95264}
+{"Ngay": "25/01/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.11768, "Vi Do": 15.95307}
+{"Ngay": "25/01/2019", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.12589, "Vi Do": 15.948664}
+{"Ngay": "05/12/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Phong", "Kinh Do": 108.10396, "Vi Do": 15.98585}
+{"Ngay": "21/11/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04016, "Vi Do": 16.04956}
+{"Ngay": "15/11/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06189, "Vi Do": 16.09688}
+{"Ngay": "03/11/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.06, "Vi Do": 16.111}
+{"Ngay": "01/11/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.054, "Vi Do": 16.117}
+{"Ngay": "31/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.03237, "Vi Do": 16.146294}
+{"Ngay": "31/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.088, "Vi Do": 16.126}
+{"Ngay": "31/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.08363, "Vi Do": 16.04221}
+{"Ngay": "31/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05107, "Vi Do": 16.065445}
+{"Ngay": "31/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04789, "Vi Do": 16.02285}
+{"Ngay": "31/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.08792, "Vi Do": 16.0431}
+{"Ngay": "31/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.08848, "Vi Do": 16.038496}
+{"Ngay": "30/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.077, "Vi Do": 16.13}
+{"Ngay": "30/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08289, "Vi Do": 16.13421}
+{"Ngay": "30/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07858, "Vi Do": 16.13342}
+{"Ngay": "30/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.088, "Vi Do": 16.129}
+{"Ngay": "30/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08381, "Vi Do": 16.128327}
+{"Ngay": "30/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.054, "Vi Do": 15.998}
+{"Ngay": "27/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.09055, "Vi Do": 16.13001}
+{"Ngay": "27/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.089, "Vi Do": 16.125}
+{"Ngay": "27/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08457, "Vi Do": 16.12952}
+{"Ngay": "27/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. H\u1ea3i Ch\u00e2u", "Xa": "P. H\u00f2a C\u01b0\u1eddng B\u1eafc", "Kinh Do": 108.22877, "Vi Do": 16.047479}
+{"Ngay": "26/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.06043, "Vi Do": 16.16426}
+{"Ngay": "26/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.0798, "Vi Do": 16.13338}
+{"Ngay": "26/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.11654, "Vi Do": 16.155277}
+{"Ngay": "25/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08, "Vi Do": 16.12}
+{"Ngay": "19/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 107.99335, "Vi Do": 15.95951}
+{"Ngay": "18/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.06549, "Vi Do": 15.93177}
+{"Ngay": "18/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07729, "Vi Do": 15.92676}
+{"Ngay": "18/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 107.974, "Vi Do": 15.953}
+{"Ngay": "17/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.062, "Vi Do": 16.128}
+{"Ngay": "17/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.067, "Vi Do": 16.123}
+{"Ngay": "17/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.06781, "Vi Do": 15.93223}
+{"Ngay": "17/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07758, "Vi Do": 16.13063}
+{"Ngay": "17/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08116, "Vi Do": 16.1311}
+{"Ngay": "17/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08035, "Vi Do": 16.13509}
+{"Ngay": "17/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.03683, "Vi Do": 16.05169}
+{"Ngay": "14/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.181, "Vi Do": 16.006}
+{"Ngay": "10/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04178, "Vi Do": 16.03936}
+{"Ngay": "10/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.063, "Vi Do": 16.018}
+{"Ngay": "10/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12728, "Vi Do": 16.05139}
+{"Ngay": "10/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh Nam", "Kinh Do": 108.13525, "Vi Do": 16.05197}
+{"Ngay": "09/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.09316, "Vi Do": 15.939681}
+{"Ngay": "09/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.05107, "Vi Do": 15.957647}
+{"Ngay": "09/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06043, "Vi Do": 16.101378}
+{"Ngay": "09/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07844, "Vi Do": 16.07346}
+{"Ngay": "08/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.0533, "Vi Do": 15.94298}
+{"Ngay": "08/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.02174, "Vi Do": 16.03504}
+{"Ngay": "08/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.08747, "Vi Do": 16.04585}
+{"Ngay": "07/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.05964, "Vi Do": 16.10197}
+{"Ngay": "07/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.056, "Vi Do": 16.104}
+{"Ngay": "07/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.05911, "Vi Do": 16.10539}
+{"Ngay": "07/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.07739, "Vi Do": 16.01387}
+{"Ngay": "07/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.07792, "Vi Do": 16.01046}
+{"Ngay": "07/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05633, "Vi Do": 16.0493}
+{"Ngay": "07/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.0416, "Vi Do": 15.96034}
+{"Ngay": "07/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12589, "Vi Do": 16.038496}
+{"Ngay": "07/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.12032, "Vi Do": 16.04094}
+{"Ngay": "06/10/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04807, "Vi Do": 16.05578}
+{"Ngay": "29/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.04172, "Vi Do": 16.128327}
+{"Ngay": "28/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a An", "Kinh Do": 108.17266, "Vi Do": 16.056462}
+{"Ngay": "28/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.12, "Vi Do": 15.963}
+{"Ngay": "27/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.12537, "Vi Do": 16.08273}
+{"Ngay": "27/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.121, "Vi Do": 16.081}
+{"Ngay": "27/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.134, "Vi Do": 16.083}
+{"Ngay": "27/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.108, "Vi Do": 16.079}
+{"Ngay": "26/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.04538, "Vi Do": 15.96707}
+{"Ngay": "26/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05341, "Vi Do": 15.995826}
+{"Ngay": "25/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.05, "Vi Do": 16.108}
+{"Ngay": "25/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.059, "Vi Do": 16.11}
+{"Ngay": "25/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 107.96635, "Vi Do": 15.94446}
+{"Ngay": "24/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09316, "Vi Do": 16.038496}
+{"Ngay": "20/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06635, "Vi Do": 16.09889}
+{"Ngay": "20/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06645, "Vi Do": 16.10136}
+{"Ngay": "20/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06525, "Vi Do": 16.10328}
+{"Ngay": "20/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06731, "Vi Do": 16.09693}
+{"Ngay": "20/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.062, "Vi Do": 16.1}
+{"Ngay": "20/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06978, "Vi Do": 16.092395}
+{"Ngay": "19/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a An", "Kinh Do": 108.17733, "Vi Do": 16.056462}
+{"Ngay": "14/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04172, "Vi Do": 16.029513}
+{"Ngay": "05/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. H\u1ea3i Ch\u00e2u", "Xa": "P. H\u00f2a Thu\u1eadn T\u00e2y", "Kinh Do": 108.20072, "Vi Do": 16.047479}
+{"Ngay": "05/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. S\u01a1n Tr\u00e0", "Xa": "P. An H\u1ea3i B\u1eafc", "Kinh Do": 108.22877, "Vi Do": 16.074428}
+{"Ngay": "05/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07968, "Vi Do": 15.92574}
+{"Ngay": "03/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04179, "Vi Do": 16.07937}
+{"Ngay": "03/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04611, "Vi Do": 16.0787}
+{"Ngay": "03/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04507, "Vi Do": 16.08571}
+{"Ngay": "03/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04802, "Vi Do": 16.08075}
+{"Ngay": "03/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05107, "Vi Do": 16.07892}
+{"Ngay": "01/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.036, "Vi Do": 16.077}
+{"Ngay": "01/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.059, "Vi Do": 16.073}
+{"Ngay": "01/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04611, "Vi Do": 16.07641}
+{"Ngay": "01/09/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. S\u01a1n Tr\u00e0", "Xa": "P. Th\u1ecd Quang", "Kinh Do": 108.2455, "Vi Do": 16.09526}
+{"Ngay": "30/08/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.04172, "Vi Do": 15.948664}
+{"Ngay": "30/08/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.04062, "Vi Do": 15.97787}
+{"Ngay": "30/08/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.04391, "Vi Do": 15.97593}
+{"Ngay": "12/08/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.0873, "Vi Do": 16.04044}
+{"Ngay": "06/08/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.10961, "Vi Do": 16.12785}
+{"Ngay": "02/08/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.05, "Vi Do": 16.127}
+{"Ngay": "02/08/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.037, "Vi Do": 16.13}
+{"Ngay": "02/08/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07604, "Vi Do": 15.93543}
+{"Ngay": "02/08/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07913, "Vi Do": 15.930698}
+{"Ngay": "01/08/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.92571, "Vi Do": 16.12421}
+{"Ngay": "01/08/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.92949, "Vi Do": 16.119344}
+{"Ngay": "01/08/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.02684, "Vi Do": 16.11866}
+{"Ngay": "01/08/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.03693, "Vi Do": 16.0813}
+{"Ngay": "01/08/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.036, "Vi Do": 16.08104}
+{"Ngay": "01/08/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.06978, "Vi Do": 16.038496}
+{"Ngay": "01/08/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04172, "Vi Do": 16.074428}
+{"Ngay": "30/07/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06044, "Vi Do": 16.0809}
+{"Ngay": "24/07/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.02132, "Vi Do": 16.15596}
+{"Ngay": "24/07/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.02286, "Vi Do": 16.15596}
+{"Ngay": "24/07/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.02569, "Vi Do": 16.15657}
+{"Ngay": "24/07/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.05379, "Vi Do": 16.08611}
+{"Ngay": "24/07/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. S\u01a1n Tr\u00e0", "Xa": "P. Th\u1ecd Quang", "Kinh Do": 108.26307, "Vi Do": 16.113355}
+{"Ngay": "10/07/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.02089, "Vi Do": 16.14946}
+{"Ngay": "10/07/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.02014, "Vi Do": 16.15373}
+{"Ngay": "10/07/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.02302, "Vi Do": 16.146294}
+{"Ngay": "10/07/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.11654, "Vi Do": 16.128327}
+{"Ngay": "03/07/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.05011, "Vi Do": 16.11637}
+{"Ngay": "03/07/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.024, "Vi Do": 15.959}
+{"Ngay": "01/07/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Phong", "Kinh Do": 108.109, "Vi Do": 15.976}
+{"Ngay": "01/07/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.095, "Vi Do": 15.978}
+{"Ngay": "01/07/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.14133, "Vi Do": 16.03414}
+{"Ngay": "30/06/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.032, "Vi Do": 16.159}
+{"Ngay": "30/06/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.021, "Vi Do": 16.157}
+{"Ngay": "30/06/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.02302, "Vi Do": 15.948664}
+{"Ngay": "30/06/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.046, "Vi Do": 16.03}
+{"Ngay": "29/06/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.03619, "Vi Do": 16.07399}
+{"Ngay": "29/06/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.01912, "Vi Do": 15.9584}
+{"Ngay": "19/06/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.10719, "Vi Do": 16.119344}
+{"Ngay": "08/06/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05107, "Vi Do": 16.065445}
+{"Ngay": "24/05/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Phong", "Kinh Do": 108.1446, "Vi Do": 15.984597}
+{"Ngay": "13/05/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.035, "Vi Do": 15.977}
+{"Ngay": "08/05/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08, "Vi Do": 16.127}
+{"Ngay": "27/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.07879, "Vi Do": 16.01393}
+{"Ngay": "26/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18212, "Vi Do": 16.00942}
+{"Ngay": "26/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18212, "Vi Do": 16.00942}
+{"Ngay": "23/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.12122, "Vi Do": 16.128327}
+{"Ngay": "14/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05634, "Vi Do": 15.99566}
+{"Ngay": "14/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05634, "Vi Do": 15.99566}
+{"Ngay": "14/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05634, "Vi Do": 15.99566}
+{"Ngay": "14/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05634, "Vi Do": 15.99566}
+{"Ngay": "14/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05634, "Vi Do": 15.99566}
+{"Ngay": "14/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05634, "Vi Do": 15.99566}
+{"Ngay": "14/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05634, "Vi Do": 15.99566}
+{"Ngay": "14/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ti\u1ebfn", "Kinh Do": 108.183, "Vi Do": 15.971}
+{"Ngay": "14/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ti\u1ebfn", "Kinh Do": 108.183, "Vi Do": 15.971}
+{"Ngay": "14/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ti\u1ebfn", "Kinh Do": 108.183, "Vi Do": 15.971}
+{"Ngay": "14/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ti\u1ebfn", "Kinh Do": 108.183, "Vi Do": 15.971}
+{"Ngay": "14/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ti\u1ebfn", "Kinh Do": 108.183, "Vi Do": 15.971}
+{"Ngay": "14/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ti\u1ebfn", "Kinh Do": 108.183, "Vi Do": 15.971}
+{"Ngay": "14/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ti\u1ebfn", "Kinh Do": 108.183, "Vi Do": 15.971}
+{"Ngay": "14/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ti\u1ebfn", "Kinh Do": 108.183, "Vi Do": 15.971}
+{"Ngay": "14/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ti\u1ebfn", "Kinh Do": 108.183, "Vi Do": 15.971}
+{"Ngay": "14/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ti\u1ebfn", "Kinh Do": 108.183, "Vi Do": 15.971}
+{"Ngay": "12/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.183, "Vi Do": 16.005}
+{"Ngay": "12/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.183, "Vi Do": 16.005}
+{"Ngay": "12/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.183, "Vi Do": 16.005}
+{"Ngay": "12/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.183, "Vi Do": 16.005}
+{"Ngay": "12/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.183, "Vi Do": 16.005}
+{"Ngay": "12/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18825, "Vi Do": 15.999569}
+{"Ngay": "11/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.06354, "Vi Do": 15.936687}
+{"Ngay": "10/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.17811, "Vi Do": 16.00856}
+{"Ngay": "10/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.17811, "Vi Do": 16.00856}
+{"Ngay": "10/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.17811, "Vi Do": 16.00856}
+{"Ngay": "10/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.17811, "Vi Do": 16.00856}
+{"Ngay": "10/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.17811, "Vi Do": 16.00856}
+{"Ngay": "10/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18201, "Vi Do": 16.002563}
+{"Ngay": "10/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. S\u01a1n Tr\u00e0", "Xa": "P. Th\u1ecd Quang", "Kinh Do": 108.24365, "Vi Do": 16.09701}
+{"Ngay": "10/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. S\u01a1n Tr\u00e0", "Xa": "P. Th\u1ecd Quang", "Kinh Do": 108.24365, "Vi Do": 16.09701}
+{"Ngay": "10/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. S\u01a1n Tr\u00e0", "Xa": "P. Th\u1ecd Quang", "Kinh Do": 108.24365, "Vi Do": 16.09701}
+{"Ngay": "10/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. S\u01a1n Tr\u00e0", "Xa": "P. Th\u1ecd Quang", "Kinh Do": 108.24365, "Vi Do": 16.09701}
+{"Ngay": "10/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. S\u01a1n Tr\u00e0", "Xa": "P. Th\u1ecd Quang", "Kinh Do": 108.24365, "Vi Do": 16.09701}
+{"Ngay": "05/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.071, "Vi Do": 15.939}
+{"Ngay": "05/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.071, "Vi Do": 15.939}
+{"Ngay": "05/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.071, "Vi Do": 15.939}
+{"Ngay": "05/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.071, "Vi Do": 15.939}
+{"Ngay": "05/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.071, "Vi Do": 15.939}
+{"Ngay": "05/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.071, "Vi Do": 15.939}
+{"Ngay": "05/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07913, "Vi Do": 15.935189}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.063, "Vi Do": 16.112}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.063, "Vi Do": 16.112}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.063, "Vi Do": 16.112}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.063, "Vi Do": 16.112}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.10251, "Vi Do": 15.957647}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07583, "Vi Do": 16.11717}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07214, "Vi Do": 16.11659}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06845, "Vi Do": 16.11601}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07583, "Vi Do": 16.11717}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07214, "Vi Do": 16.11659}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06845, "Vi Do": 16.11601}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07583, "Vi Do": 16.11717}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07214, "Vi Do": 16.11659}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06845, "Vi Do": 16.11601}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07583, "Vi Do": 16.11717}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07214, "Vi Do": 16.11659}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06845, "Vi Do": 16.11601}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07583, "Vi Do": 16.11717}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07214, "Vi Do": 16.11659}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06845, "Vi Do": 16.11601}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07583, "Vi Do": 16.11717}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07214, "Vi Do": 16.11659}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06845, "Vi Do": 16.11601}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07583, "Vi Do": 16.11717}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07214, "Vi Do": 16.11659}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06845, "Vi Do": 16.11601}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07583, "Vi Do": 16.11717}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07214, "Vi Do": 16.11659}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06845, "Vi Do": 16.11601}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07583, "Vi Do": 16.11717}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07214, "Vi Do": 16.11659}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06845, "Vi Do": 16.11601}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07214, "Vi Do": 16.11659}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06845, "Vi Do": 16.11601}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07583, "Vi Do": 16.11717}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07214, "Vi Do": 16.11659}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07583, "Vi Do": 16.11717}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06845, "Vi Do": 16.11601}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07583, "Vi Do": 16.11717}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07214, "Vi Do": 16.11659}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06845, "Vi Do": 16.11601}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.112, "Vi Do": 16.131}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.112, "Vi Do": 16.131}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.112, "Vi Do": 16.131}
+{"Ngay": "04/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.112, "Vi Do": 16.131}
+{"Ngay": "03/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.062, "Vi Do": 16.125}
+{"Ngay": "03/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.062, "Vi Do": 16.125}
+{"Ngay": "03/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.062, "Vi Do": 16.125}
+{"Ngay": "03/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.062, "Vi Do": 16.125}
+{"Ngay": "03/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.062, "Vi Do": 16.125}
+{"Ngay": "03/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.062, "Vi Do": 16.125}
+{"Ngay": "03/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.078, "Vi Do": 16.122}
+{"Ngay": "03/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.078, "Vi Do": 16.122}
+{"Ngay": "03/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.078, "Vi Do": 16.122}
+{"Ngay": "03/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.078, "Vi Do": 16.122}
+{"Ngay": "03/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.078, "Vi Do": 16.122}
+{"Ngay": "03/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.078, "Vi Do": 16.122}
+{"Ngay": "03/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07446, "Vi Do": 16.114852}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.06729, "Vi Do": 15.94237}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.06729, "Vi Do": 15.94237}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.06729, "Vi Do": 15.94237}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.065, "Vi Do": 15.938}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.075, "Vi Do": 15.939}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.06729, "Vi Do": 15.94237}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.06729, "Vi Do": 15.94237}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.06729, "Vi Do": 15.94237}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.06729, "Vi Do": 15.94237}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.06729, "Vi Do": 15.94237}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.075, "Vi Do": 15.939}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.065, "Vi Do": 15.938}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.06729, "Vi Do": 15.94237}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.075, "Vi Do": 15.939}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.065, "Vi Do": 15.938}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.06729, "Vi Do": 15.94237}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.065, "Vi Do": 15.938}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.075, "Vi Do": 15.939}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.06729, "Vi Do": 15.94237}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.065, "Vi Do": 15.938}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.075, "Vi Do": 15.939}
+{"Ngay": "02/04/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.06666, "Vi Do": 15.936687}
+{"Ngay": "29/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.134, "Vi Do": 16.084}
+{"Ngay": "29/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.134, "Vi Do": 16.084}
+{"Ngay": "29/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.134, "Vi Do": 16.084}
+{"Ngay": "29/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.134, "Vi Do": 16.084}
+{"Ngay": "29/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.134, "Vi Do": 16.084}
+{"Ngay": "29/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.134, "Vi Do": 16.084}
+{"Ngay": "29/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.134, "Vi Do": 16.084}
+{"Ngay": "29/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.13992, "Vi Do": 16.083411}
+{"Ngay": "27/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.001, "Vi Do": 16.14}
+{"Ngay": "27/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.001, "Vi Do": 16.14}
+{"Ngay": "27/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.003, "Vi Do": 16.15}
+{"Ngay": "27/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.003, "Vi Do": 16.15}
+{"Ngay": "27/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.003, "Vi Do": 16.15}
+{"Ngay": "27/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.001, "Vi Do": 16.14}
+{"Ngay": "27/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.001, "Vi Do": 16.14}
+{"Ngay": "27/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.003, "Vi Do": 16.15}
+{"Ngay": "27/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.003, "Vi Do": 16.15}
+{"Ngay": "27/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.001, "Vi Do": 16.14}
+{"Ngay": "27/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.003, "Vi Do": 16.15}
+{"Ngay": "27/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.001, "Vi Do": 16.14}
+{"Ngay": "27/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.003, "Vi Do": 16.15}
+{"Ngay": "27/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.001, "Vi Do": 16.14}
+{"Ngay": "27/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.00119, "Vi Do": 16.134316}
+{"Ngay": "27/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.02302, "Vi Do": 15.99358}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.111, "Vi Do": 16.13}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.111, "Vi Do": 16.13}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.111, "Vi Do": 16.13}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.111, "Vi Do": 16.13}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.111, "Vi Do": 16.13}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.111, "Vi Do": 16.13}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.111, "Vi Do": 16.13}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.133, "Vi Do": 16.08}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.133, "Vi Do": 16.08}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.133, "Vi Do": 16.08}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.133, "Vi Do": 16.08}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.133, "Vi Do": 16.08}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.133, "Vi Do": 16.08}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.133, "Vi Do": 16.08}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh Nam", "Kinh Do": 108.1378, "Vi Do": 16.04174}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh Nam", "Kinh Do": 108.1378, "Vi Do": 16.04174}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh Nam", "Kinh Do": 108.1378, "Vi Do": 16.04174}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh Nam", "Kinh Do": 108.1378, "Vi Do": 16.04174}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh Nam", "Kinh Do": 108.1378, "Vi Do": 16.04174}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh Nam", "Kinh Do": 108.1378, "Vi Do": 16.04174}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh Nam", "Kinh Do": 108.1378, "Vi Do": 16.04174}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh Nam", "Kinh Do": 108.1378, "Vi Do": 16.04174}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh Nam", "Kinh Do": 108.1378, "Vi Do": 16.04174}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh Nam", "Kinh Do": 108.1378, "Vi Do": 16.04174}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07166, "Vi Do": 15.94383}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07166, "Vi Do": 15.94383}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07166, "Vi Do": 15.94383}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07166, "Vi Do": 15.94383}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07166, "Vi Do": 15.94383}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07166, "Vi Do": 15.94383}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07166, "Vi Do": 15.94383}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07166, "Vi Do": 15.94383}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07166, "Vi Do": 15.94383}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07166, "Vi Do": 15.94383}
+{"Ngay": "19/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07913, "Vi Do": 15.939681}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.065, "Vi Do": 15.947}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.075, "Vi Do": 15.945}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.075, "Vi Do": 15.945}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.065, "Vi Do": 15.947}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.075, "Vi Do": 15.945}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.065, "Vi Do": 15.947}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.065, "Vi Do": 15.947}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.075, "Vi Do": 15.945}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.065, "Vi Do": 15.947}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.075, "Vi Do": 15.945}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.065, "Vi Do": 15.947}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.075, "Vi Do": 15.945}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07165, "Vi Do": 15.945071}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.128, "Vi Do": 16.085}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.128, "Vi Do": 16.085}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.128, "Vi Do": 16.085}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.128, "Vi Do": 16.085}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.128, "Vi Do": 16.085}
+{"Ngay": "13/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.128, "Vi Do": 16.085}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08514, "Vi Do": 16.12828}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08499, "Vi Do": 16.13264}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.083, "Vi Do": 16.125}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.083, "Vi Do": 16.125}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08514, "Vi Do": 16.12828}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08499, "Vi Do": 16.13264}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08499, "Vi Do": 16.13264}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08514, "Vi Do": 16.12828}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.083, "Vi Do": 16.125}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.083, "Vi Do": 16.125}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.083, "Vi Do": 16.125}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08514, "Vi Do": 16.12828}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08499, "Vi Do": 16.13264}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08514, "Vi Do": 16.12828}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08499, "Vi Do": 16.13264}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.083, "Vi Do": 16.125}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.083, "Vi Do": 16.125}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08499, "Vi Do": 16.13264}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08514, "Vi Do": 16.12828}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08499, "Vi Do": 16.13264}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08514, "Vi Do": 16.12828}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.083, "Vi Do": 16.125}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.083, "Vi Do": 16.125}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.083, "Vi Do": 16.125}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.083, "Vi Do": 16.125}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08848, "Vi Do": 16.128327}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08537, "Vi Do": 16.11635}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.186, "Vi Do": 16.007}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.186, "Vi Do": 16.007}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.186, "Vi Do": 16.007}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.186, "Vi Do": 16.007}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.186, "Vi Do": 16.007}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.186, "Vi Do": 16.007}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.186, "Vi Do": 16.007}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.186, "Vi Do": 16.007}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.186, "Vi Do": 16.007}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.186, "Vi Do": 16.007}
+{"Ngay": "04/03/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.186, "Vi Do": 16.007}
+{"Ngay": "21/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09784, "Vi Do": 16.065445}
+{"Ngay": "20/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.078, "Vi Do": 16.012}
+{"Ngay": "20/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.078, "Vi Do": 16.012}
+{"Ngay": "20/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.078, "Vi Do": 16.012}
+{"Ngay": "20/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.078, "Vi Do": 16.012}
+{"Ngay": "20/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.078, "Vi Do": 16.012}
+{"Ngay": "20/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.078, "Vi Do": 16.012}
+{"Ngay": "20/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.078, "Vi Do": 16.012}
+{"Ngay": "20/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.078, "Vi Do": 16.012}
+{"Ngay": "20/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.078, "Vi Do": 16.012}
+{"Ngay": "20/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.078, "Vi Do": 16.012}
+{"Ngay": "15/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd \u0110\u00f4ng", "Kinh Do": 108.19136, "Vi Do": 16.002563}
+{"Ngay": "15/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18568, "Vi Do": 16.00683}
+{"Ngay": "15/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18568, "Vi Do": 16.00683}
+{"Ngay": "15/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18568, "Vi Do": 16.00683}
+{"Ngay": "15/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18568, "Vi Do": 16.00683}
+{"Ngay": "15/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18568, "Vi Do": 16.00683}
+{"Ngay": "15/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18568, "Vi Do": 16.00683}
+{"Ngay": "15/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18568, "Vi Do": 16.00683}
+{"Ngay": "15/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.18568, "Vi Do": 16.00683}
+{"Ngay": "14/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08933, "Vi Do": 16.08803}
+{"Ngay": "14/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08933, "Vi Do": 16.08803}
+{"Ngay": "14/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08933, "Vi Do": 16.08803}
+{"Ngay": "14/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08933, "Vi Do": 16.08803}
+{"Ngay": "14/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08933, "Vi Do": 16.08803}
+{"Ngay": "14/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08933, "Vi Do": 16.08803}
+{"Ngay": "14/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08933, "Vi Do": 16.08803}
+{"Ngay": "14/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08933, "Vi Do": 16.08803}
+{"Ngay": "14/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.08933, "Vi Do": 16.08803}
+{"Ngay": "10/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05102, "Vi Do": 15.97517}
+{"Ngay": "10/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05102, "Vi Do": 15.97517}
+{"Ngay": "10/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05102, "Vi Do": 15.97517}
+{"Ngay": "10/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05102, "Vi Do": 15.97517}
+{"Ngay": "10/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05102, "Vi Do": 15.97517}
+{"Ngay": "10/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05102, "Vi Do": 15.97517}
+{"Ngay": "10/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05102, "Vi Do": 15.97517}
+{"Ngay": "10/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05102, "Vi Do": 15.97517}
+{"Ngay": "10/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05102, "Vi Do": 15.97517}
+{"Ngay": "09/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.0651, "Vi Do": 16.128327}
+{"Ngay": "09/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.103, "Vi Do": 15.944}
+{"Ngay": "09/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.103, "Vi Do": 15.944}
+{"Ngay": "09/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.103, "Vi Do": 15.944}
+{"Ngay": "09/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.103, "Vi Do": 15.944}
+{"Ngay": "09/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.07446, "Vi Do": 16.007055}
+{"Ngay": "09/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.072, "Vi Do": 16.013}
+{"Ngay": "09/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.072, "Vi Do": 16.013}
+{"Ngay": "09/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.072, "Vi Do": 16.013}
+{"Ngay": "09/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.072, "Vi Do": 16.013}
+{"Ngay": "07/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Ng\u0169 H\u00e0nh S\u01a1n", "Xa": "P. H\u00f2a H\u1ea3i", "Kinh Do": 108.26151, "Vi Do": 16.002563}
+{"Ngay": "04/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.058, "Vi Do": 16.066}
+{"Ngay": "04/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.064, "Vi Do": 16.06}
+{"Ngay": "04/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.058, "Vi Do": 16.066}
+{"Ngay": "04/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.064, "Vi Do": 16.06}
+{"Ngay": "04/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.058, "Vi Do": 16.066}
+{"Ngay": "04/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.064, "Vi Do": 16.06}
+{"Ngay": "04/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.064, "Vi Do": 16.06}
+{"Ngay": "04/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.058, "Vi Do": 16.066}
+{"Ngay": "04/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.058, "Vi Do": 16.066}
+{"Ngay": "04/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.064, "Vi Do": 16.06}
+{"Ngay": "04/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.058, "Vi Do": 16.066}
+{"Ngay": "04/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.064, "Vi Do": 16.06}
+{"Ngay": "04/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.058, "Vi Do": 16.066}
+{"Ngay": "04/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.064, "Vi Do": 16.06}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09389, "Vi Do": 16.04706}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09779, "Vi Do": 16.04756}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09389, "Vi Do": 16.04706}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09779, "Vi Do": 16.04756}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09779, "Vi Do": 16.04756}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09389, "Vi Do": 16.04706}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09779, "Vi Do": 16.04756}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09389, "Vi Do": 16.04706}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09779, "Vi Do": 16.04756}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09389, "Vi Do": 16.04706}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09389, "Vi Do": 16.04706}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09779, "Vi Do": 16.04756}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09779, "Vi Do": 16.04756}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09389, "Vi Do": 16.04706}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09779, "Vi Do": 16.04756}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09389, "Vi Do": 16.04706}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09779, "Vi Do": 16.04756}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09389, "Vi Do": 16.04706}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09779, "Vi Do": 16.04756}
+{"Ngay": "03/02/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a S\u01a1n", "Kinh Do": 108.09389, "Vi Do": 16.04706}
+{"Ngay": "18/01/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.00431, "Vi Do": 16.110361}
+{"Ngay": "08/01/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.12299, "Vi Do": 15.9398}
+{"Ngay": "08/01/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.09511, "Vi Do": 16.12362}
+{"Ngay": "08/01/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.09454, "Vi Do": 16.12704}
+{"Ngay": "08/01/2018", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.09784, "Vi Do": 16.119344}
+{"Ngay": "14/12/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05107, "Vi Do": 15.975614}
+{"Ngay": "02/11/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.11966, "Vi Do": 16.122338}
+{"Ngay": "29/10/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.05575, "Vi Do": 16.074428}
+{"Ngay": "26/10/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.13626, "Vi Do": 16.02839}
+{"Ngay": "23/10/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.04203, "Vi Do": 15.97522}
+{"Ngay": "23/10/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.04161, "Vi Do": 15.98171}
+{"Ngay": "23/10/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.0387, "Vi Do": 15.97648}
+{"Ngay": "20/10/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Phong", "Kinh Do": 108.10719, "Vi Do": 15.99358}
+{"Ngay": "20/10/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.10305, "Vi Do": 15.99861}
+{"Ngay": "05/10/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06599, "Vi Do": 16.07404}
+{"Ngay": "29/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.11654, "Vi Do": 16.092395}
+{"Ngay": "29/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.11012, "Vi Do": 16.00804}
+{"Ngay": "25/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.08231, "Vi Do": 15.95784}
+{"Ngay": "25/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07838, "Vi Do": 15.95713}
+{"Ngay": "25/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.08293, "Vi Do": 15.95358}
+{"Ngay": "25/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07903, "Vi Do": 15.95288}
+{"Ngay": "25/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07433, "Vi Do": 15.9564}
+{"Ngay": "25/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.08381, "Vi Do": 15.948664}
+{"Ngay": "22/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Nh\u01a1n", "Kinh Do": 108.14671, "Vi Do": 16.02432}
+{"Ngay": "21/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.03237, "Vi Do": 16.011546}
+{"Ngay": "18/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.11966, "Vi Do": 16.125333}
+{"Ngay": "18/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.119, "Vi Do": 16.079}
+{"Ngay": "18/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.12589, "Vi Do": 16.081914}
+{"Ngay": "18/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Phong", "Kinh Do": 108.11, "Vi Do": 15.997}
+{"Ngay": "18/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Phong", "Kinh Do": 108.11187, "Vi Do": 15.998071}
+{"Ngay": "18/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.178, "Vi Do": 16.005}
+{"Ngay": "17/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.91378, "Vi Do": 16.12687}
+{"Ngay": "13/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.07265, "Vi Do": 16.08713}
+{"Ngay": "13/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.06906, "Vi Do": 16.08659}
+{"Ngay": "13/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ti\u1ebfn", "Kinh Do": 108.1647, "Vi Do": 15.97603}
+{"Ngay": "11/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.02067, "Vi Do": 16.02713}
+{"Ngay": "11/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.02047, "Vi Do": 16.03268}
+{"Ngay": "11/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.01967, "Vi Do": 16.02718}
+{"Ngay": "11/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.01959, "Vi Do": 16.03275}
+{"Ngay": "09/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.08383, "Vi Do": 15.94094}
+{"Ngay": "09/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.0868, "Vi Do": 15.94585}
+{"Ngay": "09/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.08242, "Vi Do": 15.94506}
+{"Ngay": "09/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.081, "Vi Do": 15.94}
+{"Ngay": "09/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.091, "Vi Do": 15.939}
+{"Ngay": "06/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p Nam", "Kinh Do": 108.133, "Vi Do": 16.088}
+{"Ngay": "04/09/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.09054, "Vi Do": 15.93915}
+{"Ngay": "24/08/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.04172, "Vi Do": 16.083411}
+{"Ngay": "17/08/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.09316, "Vi Do": 15.948664}
+{"Ngay": "17/08/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.09784, "Vi Do": 16.086406}
+{"Ngay": "17/08/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ninh", "Kinh Do": 108.029, "Vi Do": 16.034}
+{"Ngay": "17/08/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.01665, "Vi Do": 15.96143}
+{"Ngay": "17/08/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh Nam", "Kinh Do": 108.1446, "Vi Do": 16.038496}
+{"Ngay": "14/08/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.10825, "Vi Do": 16.08424}
+{"Ngay": "14/08/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.00899, "Vi Do": 15.948664}
+{"Ngay": "12/08/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Hi\u1ec7p B\u1eafc", "Kinh Do": 108.11342, "Vi Do": 16.122338}
+{"Ngay": "12/08/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u01b0\u1edbc", "Kinh Do": 108.21007, "Vi Do": 15.984597}
+{"Ngay": "11/08/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.03496, "Vi Do": 16.14092}
+{"Ngay": "05/08/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 107.944, "Vi Do": 16.124}
+{"Ngay": "05/08/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u01b0\u1edbc", "Kinh Do": 108.21007, "Vi Do": 15.962139}
+{"Ngay": "31/07/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Li\u00ean", "Kinh Do": 108.10719, "Vi Do": 16.101378}
+{"Ngay": "31/07/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.01877, "Vi Do": 15.9611}
+{"Ngay": "31/07/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. H\u1ea3i Ch\u00e2u", "Xa": "P. H\u00f2a C\u01b0\u1eddng B\u1eafc", "Kinh Do": 108.22877, "Vi Do": 16.047479}
+{"Ngay": "31/07/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. S\u01a1n Tr\u00e0", "Xa": "P. Ph\u01b0\u1edbc M\u1ef9", "Kinh Do": 108.24748, "Vi Do": 16.07892}
+{"Ngay": "31/07/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Xu\u00e2n", "Kinh Do": 108.21942, "Vi Do": 16.011546}
+{"Ngay": "11/07/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.068, "Vi Do": 16.007}
+{"Ngay": "13/06/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.054, "Vi Do": 15.983}
+{"Ngay": "13/06/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.05575, "Vi Do": 15.980105}
+{"Ngay": "13/06/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. S\u01a1n Tr\u00e0", "Xa": "P. Th\u1ecd Quang", "Kinh Do": 108.26618, "Vi Do": 16.128327}
+{"Ngay": "07/06/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. C\u1ea9m L\u1ec7", "Xa": "P. H\u00f2a Th\u1ecd T\u00e2y", "Kinh Do": 108.181, "Vi Do": 16.008}
+{"Ngay": "03/06/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a B\u1eafc", "Kinh Do": 108.032, "Vi Do": 16.172}
+{"Ngay": "02/06/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.077, "Vi Do": 15.954}
+{"Ngay": "02/06/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Kh\u01b0\u01a1ng", "Kinh Do": 108.07913, "Vi Do": 15.944173}
+{"Ngay": "02/06/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "H\u00f2a Vang", "Xa": "H\u00f2a Ph\u00fa", "Kinh Do": 108.078, "Vi Do": 15.965}
+{"Ngay": "02/06/2017", "Tinh": "\u0110\u00e0 N\u1eb5ng", "Huyen": "Q. Li\u00ean Chi\u1ec3u", "Xa": "P. H\u00f2a Kh\u00e1nh B\u1eafc", "Kinh Do": 108.125, "Vi Do": 16.081}
